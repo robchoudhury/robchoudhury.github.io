@@ -22,5 +22,68 @@
 Cyclosporiasis is an intestinal sickness caused by the coccidian parasite Cyclospora cayetanensis. An outbreak in 2017 seemingly from Mexican cilantro has affected many people, and the Texas public health board and CDC put out some of the data publically. I wanted to go through this data, make choropleth plots for the counties affected (because I am unfamiliar with Texan counties) and plot out the data.</description>
     </item>
     
+    <item>
+      <title>A Framework for Optimizing Phytosanitary Thresholds in Seed Systems</title>
+      <link>https://robchoudhury.netlify.com/publication/phytosanitarythresholds/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/publication/phytosanitarythresholds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature and Light Effects on Germination of Peronospora effusa Sporangia</title>
+      <link>https://robchoudhury.netlify.com/publication/sdm_germination/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/publication/sdm_germination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal Patterns in the Airborne Dispersal of Spinach Downy Mildew</title>
+      <link>https://robchoudhury.netlify.com/publication/spatiotemporal_sdm/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/publication/spatiotemporal_sdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Season-Long Dynamics of Spinach Downy Mildew Determined by Spore Trapping and Disease Incidence</title>
+      <link>https://robchoudhury.netlify.com/publication/season_long_sdm/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/publication/season_long_sdm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Report of Cytospora punicae Causing Wood Canker and Branch Dieback of Pomegranate (Punica granatum) in the United States</title>
+      <link>https://robchoudhury.netlify.com/publication/franci_cytospora/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/publication/franci_cytospora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Report of Diplodia seriata Causing Pear Branch Canker Dieback in California</title>
+      <link>https://robchoudhury.netlify.com/publication/pear_diplodia/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/publication/pear_diplodia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of punctuated heat stress on the grapevine powdery mildew pathogen, Erysiphe necator</title>
+      <link>https://robchoudhury.netlify.com/publication/consecutive_pm/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/publication/consecutive_pm/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

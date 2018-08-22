@@ -15,4 +15,5 @@ url_pdf = "pdf/smallplot_sdm.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+tags=["mycology", "biology", "epidemiology", "agriculture"]
 +++

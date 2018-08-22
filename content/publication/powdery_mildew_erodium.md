@@ -15,4 +15,5 @@ url_pdf = "pdf/First Report of Powdery Mildew of Erodium moschatum Caused by Pod
 url_project = ""
 url_slides = ""
 url_video = ""
+tags=["mycology", "biology"]
 +++

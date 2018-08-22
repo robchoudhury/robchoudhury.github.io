@@ -15,4 +15,5 @@ url_pdf = "pdf/First Report of Diplodia seriata Causing Pear Branch Canker Dieba
 url_project = ""
 url_slides = ""
 url_video = ""
+tags=["mycology", "biology", "epidemiology", "agriculture"]
 +++

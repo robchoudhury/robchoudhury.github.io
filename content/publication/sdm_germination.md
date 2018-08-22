@@ -15,4 +15,5 @@ url_pdf = "pdf/peronospora_germ.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+tags=["mycology", "biology", "epidemiology"]
 +++

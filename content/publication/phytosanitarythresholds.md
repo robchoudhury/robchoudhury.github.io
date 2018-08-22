@@ -15,4 +15,5 @@ url_pdf = "pdf/phytosanitarythresholds.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
+tags=["mycology", "biology", "epidemiology", "agriculture", "seed systems"]
 +++

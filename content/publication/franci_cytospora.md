@@ -15,4 +15,5 @@ url_pdf = "pdf/First Report of Cytospora punicae Causing Wood Canker and Branch 
 url_project = ""
 url_slides = ""
 url_video = ""
+tags=["mycology", "biology", "epidemiology", "agriculture"]
 +++
