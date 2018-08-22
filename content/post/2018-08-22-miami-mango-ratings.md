@@ -19,7 +19,7 @@ My wife and I rated the mangoes over the course of about a week, tasting the dif
 
 ## How Did They Perform?
 
-![]("img_mango/variety_rating.png")
+![]("/img/img_mango/variety_rating.png")
 
 So overall, it looks like *Kensington Pride*, *Hayden*, and *Edwards* were clear winners, and the other varieties were not. What happened?
 
@@ -27,7 +27,7 @@ If you look at the other data in the file (filled with NA's, sorry) there are no
 
 Did my wife and I have different views on these mangos?
 
-![]("img_mango/person_rating_dumbbell.png")
+![]("/img/img_mango/person_rating_dumbbell.png")
 
 We had fairly similar ratings, but it looks like I pretty consistently rated things more favorably than she did.
 
