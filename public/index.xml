@@ -11,6 +11,38 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Cyclosporiapsis Outbreak in Texas 2017</title>
+      <link>https://robchoudhury.netlify.com/post/cyclosporiapsis-outbreak-in-texas-2017/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/post/cyclosporiapsis-outbreak-in-texas-2017/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/robchoudhury/TexasCyclospora&#34; target=&#34;_blank&#34;&gt;You can find the code for this post at&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cyclosporiasis is an intestinal sickness caused by the coccidian parasite &lt;em&gt;Cyclospora cayetanensis&lt;/em&gt;. An outbreak in 2017 seemingly from Mexican cilantro has affected many people, and the Texas public health board and CDC put out some of the data publically. I wanted to go through this data, make choropleth plots for the counties affected (because I am unfamiliar with Texan counties) and plot out the data. This was also prompted because I ate some cilantro and immediately went into hypochondriac mode.&lt;/p&gt;
+
+&lt;h2 id=&#34;where-is-the-outbreak-occurring-in-texas&#34;&gt;Where is the Outbreak Occurring in Texas?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_cyclospora/Aug02.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_cyclospora/Aug22.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Over a 20-day period, the several counties in Texas. Things really light up in the counties that countain big cities like Houston, Austin, and Dallas.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-happened-over-the-course-of-the-epidemic&#34;&gt;What Happened Over the Course of the Epidemic?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_cyclospora/timeline.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_cyclospora/totalcases.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Based on the CDC dataset, we can see that things get pretty bad, but start to settle down after mid-July. This may have been due to raised awareness of the outbreak or removal of the affected material from shelves and stores.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+
+&lt;p&gt;Overall, this outbreak highlighted the interconnectedness of agricultural trade, especially with Mexico, and the vulnerability of these systems to even small amounts of distant contamination. Understanding epidemic dynamics and mapping out locations of disease can help to highlight areas that are especially susceptible to problems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Miami Mango Ratings</title>
       <link>https://robchoudhury.netlify.com/post/miami-mango-ratings/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>

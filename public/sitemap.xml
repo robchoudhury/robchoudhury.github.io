@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://robchoudhury.netlify.com/post/cyclosporiapsis-outbreak-in-texas-2017/</loc>
+      <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://robchoudhury.netlify.com/post/miami-mango-ratings/</loc>
       <lastmod>2018-08-22T00:00:00+00:00</lastmod>
     </url>
@@ -166,6 +174,15 @@
     
     <url>
     
+      <loc>https://robchoudhury.netlify.com/tags/cartography/</loc>
+      <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://robchoudhury.netlify.com/categories/</loc>
       <priority>0</priority>
     </url>
@@ -175,6 +192,15 @@
     <url>
     
       <loc>https://robchoudhury.netlify.com/tags/data-science/</loc>
+      <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://robchoudhury.netlify.com/tags/epidemiology/</loc>
       <lastmod>2018-08-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
