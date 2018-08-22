@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robin Choudhury on Robin Choudhury</title>
-    <link>/</link>
+    <link>https://robchoudhury.github.io/</link>
     <description>Recent content in Robin Choudhury on Robin Choudhury</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Bird Ages</title>
-      <link>/post/bird-ages/</link>
+      <link>https://robchoudhury.github.io/post/bird-ages/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/bird-ages/</guid>
+      <guid>https://robchoudhury.github.io/post/bird-ages/</guid>
       <description>
 
 &lt;h2 id=&#34;bird-age&#34;&gt;Bird Age&lt;/h2&gt;
@@ -26,7 +26,7 @@
 
 &lt;p&gt;I wanted to know if there was any signal for how old birds get if theyre closely related. Ultimately, I would love to know how age is affected by size (weight, wingspan, whatever) but I cant find open datasets for that.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/img_bird_age/joy_plot.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.github.io/img/img_bird_age/joy_plot.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Looks like some bird orders have individuals that live longer than others, but it&amp;rsquo;s difficult to say for some whether thats just a sampling issue.&lt;/p&gt;
 
@@ -34,7 +34,7 @@
 
 &lt;p&gt;The relationship between the mean and the variance of a dataset can tell you &amp;hellip; stuff (see &lt;a href=&#34;https://en.wikipedia.org/wiki/Variance_function&#34; target=&#34;_blank&#34;&gt;https://en.wikipedia.org/wiki/Variance_function&lt;/a&gt;). Honestly I was just curious if there was a relationship, I need to revisit why this bit is important.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/img_bird_age/mean_variance.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.github.io/img/img_bird_age/mean_variance.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It looks like there is a pretty strong relationship between log mean and log variance, with an R&lt;sup&gt;2&lt;/sup&gt; of 0.3722, a slope of 0.14848.&lt;/p&gt;
 
@@ -46,111 +46,111 @@
     
     <item>
       <title>Privacy Policy</title>
-      <link>/privacy/</link>
+      <link>https://robchoudhury.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/privacy/</guid>
+      <guid>https://robchoudhury.github.io/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Framework for Optimizing Phytosanitary Thresholds in Seed Systems</title>
-      <link>/publication/phytosanitarythresholds/</link>
+      <link>https://robchoudhury.github.io/publication/phytosanitarythresholds/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/phytosanitarythresholds/</guid>
+      <guid>https://robchoudhury.github.io/publication/phytosanitarythresholds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temperature and Light Effects on Germination of Peronospora effusa Sporangia</title>
-      <link>/publication/sdm_germination/</link>
+      <link>https://robchoudhury.github.io/publication/sdm_germination/</link>
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/sdm_germination/</guid>
+      <guid>https://robchoudhury.github.io/publication/sdm_germination/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First Report of Powdery Mildew Caused by Podosphaera sp. on Triadica sebifera in California</title>
-      <link>/publication/powdery_mildew_tallowtree/</link>
+      <link>https://robchoudhury.github.io/publication/powdery_mildew_tallowtree/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/powdery_mildew_tallowtree/</guid>
+      <guid>https://robchoudhury.github.io/publication/powdery_mildew_tallowtree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatiotemporal Patterns in the Airborne Dispersal of Spinach Downy Mildew</title>
-      <link>/publication/spatiotemporal_sdm/</link>
+      <link>https://robchoudhury.github.io/publication/spatiotemporal_sdm/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/spatiotemporal_sdm/</guid>
+      <guid>https://robchoudhury.github.io/publication/spatiotemporal_sdm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Season-Long Dynamics of Spinach Downy Mildew Determined by Spore Trapping and Disease Incidence</title>
-      <link>/publication/season_long_sdm/</link>
+      <link>https://robchoudhury.github.io/publication/season_long_sdm/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/season_long_sdm/</guid>
+      <guid>https://robchoudhury.github.io/publication/season_long_sdm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First Report of Powdery Mildew of Erodium moschatum Caused by Podosphaera cf. erodii in California</title>
-      <link>/publication/powdery_mildew_erodium/</link>
+      <link>https://robchoudhury.github.io/publication/powdery_mildew_erodium/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/powdery_mildew_erodium/</guid>
+      <guid>https://robchoudhury.github.io/publication/powdery_mildew_erodium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
+      <link>https://robchoudhury.github.io/publication/person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
+      <guid>https://robchoudhury.github.io/publication/person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>First Report of Cytospora punicae Causing Wood Canker and Branch Dieback of Pomegranate (Punica granatum) in the United States</title>
-      <link>/publication/franci_cytospora/</link>
+      <link>https://robchoudhury.github.io/publication/franci_cytospora/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/franci_cytospora/</guid>
+      <guid>https://robchoudhury.github.io/publication/franci_cytospora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First Report of Diplodia seriata Causing Pear Branch Canker Dieback in California</title>
-      <link>/publication/pear_diplodia/</link>
+      <link>https://robchoudhury.github.io/publication/pear_diplodia/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/pear_diplodia/</guid>
+      <guid>https://robchoudhury.github.io/publication/pear_diplodia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of punctuated heat stress on the grapevine powdery mildew pathogen, Erysiphe necator</title>
-      <link>/publication/consecutive_pm/</link>
+      <link>https://robchoudhury.github.io/publication/consecutive_pm/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/consecutive_pm/</guid>
+      <guid>https://robchoudhury.github.io/publication/consecutive_pm/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/publication/consecutive_pm/</link>
+      <link>https://robchoudhury.github.io/publication/consecutive_pm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/publication/consecutive_pm/</guid>
+      <guid>https://robchoudhury.github.io/publication/consecutive_pm/</guid>
       <description>&lt;!DOCTYPE html&gt;
 
 &lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;
