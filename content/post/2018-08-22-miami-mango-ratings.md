@@ -10,6 +10,7 @@ header:
   image: 'img_mango/20170714_063234-min.png'
 ---
 
+[Full analysis here](https://github.com/robchoudhury/mango_rating)
 
 Mangos are grown widely in South Florida, but only a few varieties ever make it north, because they don’t really ship well and there isn’t a huge market. I ended up receiving some rare varieties from a collaborator down south, and I wanted to know how they ranked one to another, so my wife and I rated the different varieties.
 
