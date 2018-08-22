@@ -16,7 +16,32 @@
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://robchoudhury.netlify.com/post/miami-mango-ratings/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;Mangos are grown widely in South Florida, but only a few varieties ever make it north, because they don’t really ship well and there isn’t a huge market. I ended up receiving some rare varieties from a collaborator down south, and I wanted to know how they ranked one to another, so my wife and I rated the different varieties.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-data&#34;&gt;The Data&lt;/h2&gt;
+
+&lt;p&gt;My wife and I rated the mangoes over the course of about a week, tasting the different varieties as they felt more and more ripe. We each did a subjective rating of 1-10, with 1 being &amp;ldquo;this tastes terrible&amp;rdquo;, and 10 being &amp;ldquo;this is literally the best mango I&amp;rsquo;ve ever had&amp;rdquo;. We rated independent of each other, recording our ratings, and I collated the data for this dataset.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-did-they-perform&#34;&gt;How Did They Perform?&lt;/h2&gt;
+
+&lt;p&gt;![](&amp;ldquo;img_mango/variety_rating.png&amp;rdquo;)&lt;/p&gt;
+
+&lt;p&gt;So overall, it looks like &lt;em&gt;Kensington Pride&lt;/em&gt;, &lt;em&gt;Hayden&lt;/em&gt;, and &lt;em&gt;Edwards&lt;/em&gt; were clear winners, and the other varieties were not. What happened?&lt;/p&gt;
+
+&lt;p&gt;If you look at the other data in the file (filled with NA&amp;rsquo;s, sorry) there are notes on the stringiness and the taste of the varieties. Poor varieties like &lt;em&gt;Sweet Tart&lt;/em&gt; had chalky texture in the mouth, and would sometimes smell like tylenol, or have no aroma at all. Good performers had very slight to no stringiness, and had the kind of &amp;lsquo;quintessential&amp;rsquo; tastes of mango: fruity, tropical, rich. &lt;em&gt;Kensington Pride&lt;/em&gt; was my favorite, and it tasted a bit like muscadine grapes. Mid-performers like &lt;em&gt;Nam Duk Moi&lt;/em&gt; had stringiness, and &lt;em&gt;Dot&lt;/em&gt; would sometimes have a popcorn like flavor, or tasted too sweet.&lt;/p&gt;
+
+&lt;p&gt;Did my wife and I have different views on these mangos?&lt;/p&gt;
+
+&lt;p&gt;![](&amp;ldquo;img_mango/person_rating_dumbbell.png&amp;rdquo;)&lt;/p&gt;
+
+&lt;p&gt;We had fairly similar ratings, but it looks like I pretty consistently rated things more favorably than she did.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+
+&lt;p&gt;If you are in Miami area in July, you NEED to taste mangoes. They grow on street trees, make friends, knock on doors, see if people will sell them to you. Have fun!&lt;/p&gt;
+</description>
     </item>
     
     <item>
