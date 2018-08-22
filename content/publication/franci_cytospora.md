@@ -1,0 +1,18 @@
++++
+abstract = "Pomegranates (*Punica granatum* L.) are an expanding industry in the United States with California growing approximately 32,000 acres with a crop value of over $155 million (1). During June and July of 2012, we observed severe limb and branch dieback in pomegranate orchards cv. Wonderful located in Contra Costa, Kings, and Kern counties of California. Disease symptoms included yellowing of leaves, branch and limb dieback, wood lesions, and canker formation. Dark brown *Cytospora*-like cultures were consistently isolated from active cankers on potato dextrose agar (PDA) amended with 100 mg l-1 tetracycline hydrochloride. Three isolates (UCCE1223, UCCE1233, and UCCE1234) representative of each orchard were sub-cultured onto PDA and incubated at 22?C under fluorescent intermittent light (12 h light, 12 h dark). Fungal colonies had whitish mycelia that turned olive green to dark brown with maturity and formed globose and dark brown pycnidia after 12 days. Conidia were hyaline, aseptate, allantoid, and (4) 4.5 to 5 (6) x (1) 1.5 (2) um (n = 180). Pycnidia formed in culture measured (250) 350 to 475 (650) ?m in diameter (n = 40). Identification of the isolates was confirmed by sequence comparison of the internal transcribed spacer region (ITS1-5.8S-ITS2) of the rDNA and part of the translation elongation factor 1-a gene (EF1-a) with sequences available in GenBank. Consensus sequences of both genes of all isolates showed 99% homology to the species *Cytospora punicae* Sacc. (2). All sequences were deposited in GenBank (Accession Nos. KJ621684 to 89). Pathogenicity of the isolates was determined by branch inoculation. In December 2012, 3-year-old branches of P. granatum cv. Wonderful were inoculated by placing 5-mm-diameter mycelium plugs from the growing margin of 14-day-old PDA cultures in fresh wounds made with a 5-mm-diameter cork-borer. Eight branches per isolate were inoculated on eight different trees. Eight control branches were inoculated with non-colonized PDA agar plugs. Inoculations were covered with Vaseline and wrapped with Parafilm to retain moisture. Branches were harvested in August 2013 and examined for canker development and the extent of vascular discoloration spreading downward and upward from the inoculation point. Isolations from the edge of discolored tissue were conducted to fulfill Koch's postulates. *C. punicae* was re-isolated from 100% of the inoculated branches. Total length of vascular discoloration averaged 30.2 mm in branches inoculated with the three *C. punicae* isolates and 9 mm in the control branches. No fungi were isolated from the slightly discolored tissue of the controls. To our knowledge, this is the first report of *C. punicae* as a fungal trunk pathogen of pomegranate trees in the United States."
+abstract_short="Drs. Francesca Peduto-Hand and Doug Gubler were contacted about a new disease found on pomegranates in California. I helped to describe the pathogen by measuring and detailing fungal structures."
+authors = [ "F. Peduto Hand","R. A. Choudhury",  "W. D. Gubler"]
+date = "2014-06-01"
+image = "franci-cytospora.jpg"
+image_preview = "franci-cytospora.jpg"
+math = true
+publication = "Plant Disease 98:853"
+selected = true
+title = "First Report of Cytospora punicae Causing Wood Canker and Branch Dieback of Pomegranate (Punica granatum) in the United States"
+url_code = ""
+url_dataset = ""
+url_pdf = "pdf/First Report of Cytospora punicae Causing Wood Canker and Branch Dieback of Pomegranate (Punica granatum) in the United States ? Plant Disease.pdf"
+url_project = ""
+url_slides = ""
+url_video = ""
++++
