@@ -11,7 +11,7 @@ selected = true
 title = "Multiple origins of downy mildews and mitonuclear  discordance within the paraphyletic genus Phytophthora"
 url_code = ""
 url_dataset = ""
-url_pdf = "pdf/tyler_phylogeny.pdf"
+url_pdf = "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0192502"
 url_project = ""
 url_slides = ""
 url_video = ""
