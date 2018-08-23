@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Robin Choudhury</copyright>
-    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://robchoudhury.netlify.com/tags/mycology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Network Analysis: A Systems Framework to Address Grand Challenges in Plant Pathology</title>
+      <link>https://robchoudhury.netlify.com/publication/network_annualreview/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/publication/network_annualreview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple origins of downy mildews and mitonuclear  discordance within the paraphyletic genus Phytophthora</title>
+      <link>https://robchoudhury.netlify.com/publication/dm_phylogeny/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/publication/dm_phylogeny/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Framework for Optimizing Phytosanitary Thresholds in Seed Systems</title>
@@ -27,6 +45,15 @@
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://robchoudhury.netlify.com/publication/sdm_germination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laurel Wilt in Natural and Agricultural Ecosystems: Understanding the Drivers and Scales of Complex Pathosystems</title>
+      <link>https://robchoudhury.netlify.com/publication/laurel_wilt_review/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/publication/laurel_wilt_review/</guid>
       <description></description>
     </item>
     
