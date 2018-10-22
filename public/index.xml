@@ -11,6 +11,40 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Colors</title>
+      <link>https://robchoudhury.netlify.com/post/colors/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/post/colors/</guid>
+      <description>
+
+&lt;p&gt;Full analysis &lt;a href=&#34;https://github.com/robchoudhury/birdage&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I stumbled across a dataset of bird ages on a &lt;a href=&#34;https://www.pwrc.usgs.gov/bbl/longevity/longevity_main.cfm&#34; target=&#34;_blank&#34;&gt;USGS website&lt;/a&gt;, and wanted to know if there was a relationship between bird age and other variables (weight, wingspan, etc).&lt;/p&gt;
+
+&lt;h2 id=&#34;link-between-bird-age-and-phylogenetic-order&#34;&gt;Link Between Bird Age and Phylogenetic Order?&lt;/h2&gt;
+
+&lt;p&gt;I wanted to know if there was any signal for how old birds get if theyre closely related. Ultimately, I would love to know how age is affected by size (weight, wingspan, whatever) but I cant find open datasets for that.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_bird_age/joy_plot.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Looks like some bird orders have individuals that live longer than others, but it&amp;rsquo;s difficult to say for some whether thats just a sampling issue.&lt;/p&gt;
+
+&lt;h2 id=&#34;mean-variance-relationship&#34;&gt;Mean Variance Relationship&lt;/h2&gt;
+
+&lt;p&gt;The relationship between the mean and the variance of a dataset can tell you &amp;hellip; stuff (see &lt;a href=&#34;https://en.wikipedia.org/wiki/Variance_function&#34; target=&#34;_blank&#34;&gt;https://en.wikipedia.org/wiki/Variance_function&lt;/a&gt;). Honestly I was just curious if there was a relationship, I need to revisit why this bit is important.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_bird_age/mean_variance.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It looks like there is a pretty strong relationship between log mean and log variance, with an R&lt;sup&gt;2&lt;/sup&gt; of 0.3722, a slope of 0.14848.&lt;/p&gt;
+
+&lt;h2 id=&#34;next-up&#34;&gt;Next Up?&lt;/h2&gt;
+
+&lt;p&gt;Ideally, it would be awesome to find a dataset that tied bird name with bird weight or wingspan or other variables. That way you could see if bird weight/wingspan correlated with age or phylogeny. It would also be cool to see a tree of bird orders to see if more closely related things had similar ages.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cyclosporiapsis Outbreak in Texas 2017</title>
       <link>https://robchoudhury.netlify.com/post/cyclosporiapsis-outbreak-in-texas-2017/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
@@ -211,15 +245,6 @@
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://robchoudhury.netlify.com/publication/powdery_mildew_erodium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>First report of Cytospora punicae causing wood canker and branch dieback of pomegranate (Punica granatum) in the United States</title>
-      <link>https://robchoudhury.netlify.com/publication/franci_cytospora/</link>
-      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://robchoudhury.netlify.com/publication/franci_cytospora/</guid>
       <description></description>
     </item>
     
