@@ -122,7 +122,7 @@
 
 &lt;h2 id=&#34;bird-age&#34;&gt;Bird Age&lt;/h2&gt;
 
-&lt;p&gt;Full analysis &lt;a href=&#34;https://github.com/robchoudhury/birdage&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Full analysis is &lt;a href=&#34;https://github.com/robchoudhury/birdage&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I stumbled across a dataset of bird ages on a &lt;a href=&#34;https://www.pwrc.usgs.gov/bbl/longevity/longevity_main.cfm&#34; target=&#34;_blank&#34;&gt;USGS website&lt;/a&gt;, and wanted to know if there was a relationship between bird age and other variables (weight, wingspan, etc).&lt;/p&gt;
 
