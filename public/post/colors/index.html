@@ -15,9 +15,8 @@
   
     
   
-  <meta name="description" content="Full analysis here
-I stumbled across a dataset of bird ages on a USGS website, and wanted to know if there was a relationship between bird age and other variables (weight, wingspan, etc).
-Link Between Bird Age and Phylogenetic Order? I wanted to know if there was any signal for how old birds get if theyre closely related. Ultimately, I would love to know how age is affected by size (weight, wingspan, whatever) but I cant find open datasets for that.">
+  <meta name="description" content="There has been more and more research on how to better design figures and color schemes to suit a broader audience. Roughly 8% of men and 0.5% of women have some sort of colorblindness, so if I present a figure during an extension or scientific talk, I really need to make sure that the information comes across correctly.
+Luckily, there are lots of great packages out there that give options on what color scales I can use.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://robchoudhury.netlify.com/post/colors/">
@@ -108,9 +107,8 @@ Link Between Bird Age and Phylogenetic Order? I wanted to know if there was any 
   <meta property="og:site_name" content="Robin Choudhury">
   <meta property="og:url" content="https://robchoudhury.netlify.com/post/colors/">
   <meta property="og:title" content="Colors | Robin Choudhury">
-  <meta property="og:description" content="Full analysis here
-I stumbled across a dataset of bird ages on a USGS website, and wanted to know if there was a relationship between bird age and other variables (weight, wingspan, etc).
-Link Between Bird Age and Phylogenetic Order? I wanted to know if there was any signal for how old birds get if theyre closely related. Ultimately, I would love to know how age is affected by size (weight, wingspan, whatever) but I cant find open datasets for that."><meta property="og:image" content="https://robchoudhury.netlify.com/img/img_bird_age/IMG_1261.JPG">
+  <meta property="og:description" content="There has been more and more research on how to better design figures and color schemes to suit a broader audience. Roughly 8% of men and 0.5% of women have some sort of colorblindness, so if I present a figure during an extension or scientific talk, I really need to make sure that the information comes across correctly.
+Luckily, there are lots of great packages out there that give options on what color scales I can use."><meta property="og:image" content="https://robchoudhury.netlify.com/img/img_colors/ftpiercefl_cb-min.JPG">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-10-22T00:00:00&#43;00:00">
@@ -262,10 +260,10 @@ Link Between Bird Age and Phylogenetic Order? I wanted to know if there was any 
 <div class="article-header">
   
   
-    <img src="/img/img_bird_age/IMG_1261.JPG" class="article-banner" itemprop="image">
+    <img src="/img/img_colors/ftpiercefl_cb-min.JPG" class="article-banner" itemprop="image">
   
 
-  <span class="article-header-caption">Colorblind: I can see fine, but others are not able to, so we need to design figures to be colorblind-friendly.</span>
+  <span class="article-header-caption">Colorblind: the world isnt so black and white, but we need to design figures to adjust for those who cant see that.</span>
 </div>
 
 
@@ -298,7 +296,7 @@ Link Between Bird Age and Phylogenetic Order? I wanted to know if there was any 
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    2 min read
+    3 min read
   </span>
   
 
@@ -360,29 +358,47 @@ Link Between Bird Age and Phylogenetic Order? I wanted to know if there was any 
     <div class="article-style" itemprop="articleBody">
       
 
-<p>Full analysis <a href="https://github.com/robchoudhury/birdage" target="_blank">here</a></p>
+<p>There has been more and more research on how to better design figures and color schemes to suit a broader audience. Roughly 8% of men and 0.5% of women have some sort of colorblindness, so if I present a figure during an extension or scientific talk, I really need to make sure that the information comes across correctly.</p>
 
-<p>I stumbled across a dataset of bird ages on a <a href="https://www.pwrc.usgs.gov/bbl/longevity/longevity_main.cfm" target="_blank">USGS website</a>, and wanted to know if there was a relationship between bird age and other variables (weight, wingspan, etc).</p>
+<p>Luckily, there are lots of great packages out there that give options on what color scales I can use. I really wanted to keep track of some of my favorites, and how I created the visualizations, so this is kind of a short guide on that. There are lots of other resources out there, this is something that I kept going back to as a reference, and wanted to make public.</p>
 
-<h2 id="link-between-bird-age-and-phylogenetic-order">Link Between Bird Age and Phylogenetic Order?</h2>
+<h2 id="what-color-scales-are-available">What Color Scales are Available?</h2>
 
-<p>I wanted to know if there was any signal for how old birds get if theyre closely related. Ultimately, I would love to know how age is affected by size (weight, wingspan, whatever) but I cant find open datasets for that.</p>
+<p>There are many MANY packages that make color palettes, ( <a href="https://github.com/EmilHvitfeldt/paletteer" target="_blank">paletteer</a> seems to be an R resource for many of them), but the classic that my colleagues and I use alot is <a href="https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html" target="_blank">viridis</a>, which offers five beautiful palettes. I wanted to compare those five to some others that I found around and thought looked interesting and kind of similar to the viridis five.</p>
 
-<p><img src="/img/img_bird_age/joy_plot.png" alt="" /></p>
+<blockquote>
+<p>pals::pal.bands(pals::ocean.thermal, viridis::plasma, viridis::magma,pals::ocean.matter, pals::ocean.oxy, viridis::inferno, viridis::viridis, pals::parula , pals::ocean.haline, viridis::cividis)</p>
+</blockquote>
 
-<p>Looks like some bird orders have individuals that live longer than others, but it&rsquo;s difficult to say for some whether thats just a sampling issue.</p>
+<p><img src="/img/img_colors/colors_compare.png" alt="" /></p>
 
-<h2 id="mean-variance-relationship">Mean Variance Relationship</h2>
+<p>So the palettes that are available through the pals package seem to be useful, and seem to mimic what we see in viridis. I really like the Parula palette, it reminds me of the old-school Matlab plots, very retro chic.</p>
 
-<p>The relationship between the mean and the variance of a dataset can tell you &hellip; stuff (see <a href="https://en.wikipedia.org/wiki/Variance_function" target="_blank">https://en.wikipedia.org/wiki/Variance_function</a>). Honestly I was just curious if there was a relationship, I need to revisit why this bit is important.</p>
+<h2 id="how-colorblind-friendly-are-any-of-these-palettes">How Colorblind-Friendly are Any of these Palettes?</h2>
 
-<p><img src="/img/img_bird_age/mean_variance.png" alt="" /></p>
+<p>As much as it&rsquo;s interesting to see the different palettes, we really want to know how they will be perceived by those with different forms of colorblindness. Ideally, we would want a color palette that looks like it ramps fairly smoothly over the entire range, and that the ramp looks uniformly smooth across the different colorblindness types.</p>
 
-<p>It looks like there is a pretty strong relationship between log mean and log variance, with an R<sup>2</sup> of 0.3722, a slope of 0.14848.</p>
+<blockquote>
+<p>pals::pal.safe(pals::parula)</p>
+</blockquote>
 
-<h2 id="next-up">Next Up?</h2>
+<p><img src="/img/img_colors/colors_cb_safe.png" alt="" /></p>
 
-<p>Ideally, it would be awesome to find a dataset that tied bird name with bird weight or wingspan or other variables. That way you could see if bird weight/wingspan correlated with age or phylogeny. It would also be cool to see a tree of bird orders to see if more closely related things had similar ages.</p>
+<p>It looks like the Parula palette is fairly safe and uniform for those with BW/Deutan/Protan blindness, but not as uniform for Tritan. Ideally, we would want a palette that can cover all of them. Check out this great article describing the creation of the cividis color palette <a href="https://arxiv.org/abs/1712.01662" target="_blank">here</a>, and how it is likely one of the more optimal settings for figures.</p>
+
+<h2 id="what-are-the-actual-colors">What are the Actual Colors?</h2>
+
+<p>Sometimes you want to use the hex codes involved in the different palettes. I use the scales function show_col to show the different colors, and here I am using the rcartocolor package palette &lsquo;ag_Sunset&rsquo;, which I find incredibly beautiful.</p>
+
+<blockquote>
+<p>scales::show_col(colorRampPalette(rcartocolor::carto_pal(name = &ldquo;ag_Sunset&rdquo;))(25))</p>
+</blockquote>
+
+<p><img src="/img/img_colors/ag_sunset.png" alt="" /></p>
+
+<h2 id="conclusions">Conclusions?</h2>
+
+<p>This is really and truly just the tip of the iceberg, but with a small amount of care, you can easily modify your scientific figures to be more easily and accurately understood by a fairly large chunk of the populace.</p>
 
     </div>
 
@@ -407,9 +423,9 @@ Link Between Bird Age and Phylogenetic Order? I wanted to know if there was any 
       <h3>Related</h3>
       <ul>
         
-        <li><a href="/post/cyclosporiapsis-outbreak-in-texas-2017/">Cyclosporiapsis Outbreak in Texas 2017</a></li>
-        
         <li><a href="/post/miami-mango-ratings/">Miami Mango Ratings</a></li>
+        
+        <li><a href="/post/cyclosporiapsis-outbreak-in-texas-2017/">Cyclosporiapsis Outbreak in Texas 2017</a></li>
         
         <li><a href="/post/bird-ages/">Bird Ages</a></li>
         

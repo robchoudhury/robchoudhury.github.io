@@ -18,9 +18,8 @@
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://robchoudhury.netlify.com/post/colors/</guid>
-      <description>Full analysis here
-I stumbled across a dataset of bird ages on a USGS website, and wanted to know if there was a relationship between bird age and other variables (weight, wingspan, etc).
-Link Between Bird Age and Phylogenetic Order? I wanted to know if there was any signal for how old birds get if theyre closely related. Ultimately, I would love to know how age is affected by size (weight, wingspan, whatever) but I cant find open datasets for that.</description>
+      <description>There has been more and more research on how to better design figures and color schemes to suit a broader audience. Roughly 8% of men and 0.5% of women have some sort of colorblindness, so if I present a figure during an extension or scientific talk, I really need to make sure that the information comes across correctly.
+Luckily, there are lots of great packages out there that give options on what color scales I can use.</description>
     </item>
     
     <item>
