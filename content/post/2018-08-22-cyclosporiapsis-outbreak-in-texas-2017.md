@@ -1,7 +1,7 @@
 ---
 title: Cyclosporiapsis Outbreak in Texas 2017
 author: Robin Choudhury
-date: '2018-08-22'
+date: '2018-09-22'
 slug: cyclosporiapsis-outbreak-in-texas-2017
 categories: []
 tags: ["data science", "cartography","epidemiology", "random"]
