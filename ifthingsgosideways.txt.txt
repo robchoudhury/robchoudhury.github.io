@@ -1,0 +1,6 @@
+git clone https://github.com/username/username.github.io
+
+clone your github, delete out of the dropbox, see if the new one can post, and then merge back into dropbox,
+go to netlify, go to deploys, then click Trigger Deploy
+
+super clunky, hopefully future-robin figures out a better patch

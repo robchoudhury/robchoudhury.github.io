@@ -11,6 +11,61 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Homestead Avocado Ratings</title>
+      <link>https://robchoudhury.netlify.com/post/avocado-ratings/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/post/avocado-ratings/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/robchoudhury/avocado_tasting&#34; target=&#34;_blank&#34;&gt;Full analysis here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Global avocado production mostly focuses in Mexico, with the most prominent variety being &amp;lsquo;Hass&amp;rsquo;. I work on a project researching a disease of avocados (and other plants in the same family, Lauraceae) that causes rapid death, laurel wilt. Avocados in Florida are threatened by laurel wilt. Most production occurs in Miami-Dade county, mostly around the Homestead production region. The avocados grown in Florida tend to be of the West Indian races, whereas Hass are Mexican-Guatamalan hybrid races. West Indian races are larger (think about the size of a grapefruit) and are more watery and floral than Hass. Most of the varieties grown in south Florida are not exported because they don&amp;rsquo;t ship well. I was fortunately to go down and gather some avocados from the University of Florida Tropical Research and Extension Center (UF-TREC), where my collaborator &lt;a href=&#34;https://trec.ifas.ufl.edu/faculty/jcrane/&#34; target=&#34;_blank&#34;&gt;Dr. Jonathan Crane&lt;/a&gt; works. I brought them back north to the &lt;a href=&#34;http://www.garrettlab.com/&#34; target=&#34;_blank&#34;&gt;Garrett lab in Gainesville&lt;/a&gt;, where we tasted and rated the avocados as they became ripe.&lt;/p&gt;
+
+&lt;p&gt;Here they are!
+&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_lw/IMG_20181008_084604.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-data&#34;&gt;The Data&lt;/h2&gt;
+
+&lt;p&gt;We rated the avocados over the course of about a week, and I have to be honest, by the end I didn&amp;rsquo;t want to see another avocado again for a long time. Eating one avocado is a joy; eating 10 in a very short time span is a slog. In addition, not all of them were very good! Some were better than others, but most of the reviewers thought that the Hass was probably better than most of these. That said, our palates (palletes? I&amp;rsquo;m still thinking about &lt;a href=&#34;https://robchoudhury.netlify.com/post/colors/&#34; target=&#34;_blank&#34;&gt;the last blog post&lt;/a&gt;) have been refined to enjoy Hass. If we had grown up with these varieties, we might have had more positive thoughts on them. It took about a week for all of the fruit to ripen, and we ate them as they became ready.  We each did a subjective rating of 1-10, with 1 being &amp;ldquo;this tastes terrible&amp;rdquo;, and 10 being &amp;ldquo;this is literally the best avocado I&amp;rsquo;ve ever had / this is as good as Hass&amp;rdquo;. We rated independent of each other, recording our ratings, and I collated the data for this dataset. Not everyone rated all avocados (except for me), but most people rated at least two.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-did-they-perform&#34;&gt;How Did They Perform?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_lw/2018-11-20.variety.rating.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So overall, it looks like &lt;em&gt;Lara Red&lt;/em&gt;, &lt;em&gt;Tonnage&lt;/em&gt;, and &lt;em&gt;Pahokee&lt;/em&gt; were top of the heap, but the others were all close behind.&lt;/p&gt;
+
+&lt;p&gt;Most of the avocados were rich, but not quite as rich as a typical &lt;em&gt;Hass&lt;/em&gt;, which has a nice butteryness and clean mouthfeel. Some of the avocados were watery, which definitely cost them points. Others had distinct off-flavors, kind of vegetative or acrid.&lt;/p&gt;
+
+&lt;h2 id=&#34;did-people-have-different-views-on-the-avocados&#34;&gt;Did people have different views on the avocados?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_lw/2018-11-20.variety.rating.person.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;YES! Overall, some people were quite positive about some varieties and negative about others. However, most people had similar ratings across the board, with only a few people with distinct opinions on the avocados. Kelsey and I rated the most avocados over the period, so ours tended to be the most negative. I was curious if there was a relationship between the number of avocados that we rated and the mean avocado rating we had, so I did a simple linear regression of the two.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_lw/2018-11-20.variety.rating.lm.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There was a decent relationship between the two, with an R^2 of 0.4447 and a p value of 0.0297. It seems that for every additional avocado a person rated, their mean rating score dropped by about 0.2, which is noticable.&lt;/p&gt;
+
+&lt;h2 id=&#34;was-there-an-effect-of-time&#34;&gt;Was there an effect of time?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_lw/2018-11-20.variety.rating.date.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;YES! It looks like as the week wore on, people got more and more tired of avocados. While the first few varieties garnered wide support, the later varieties were not as popular. However, its difficult to disentangle the effect of rating date with variety itself, as we did not taste the varieties all on the same day, but rather on sequential days.&lt;/p&gt;
+
+&lt;h2 id=&#34;did-raters-group-together&#34;&gt;Did Raters Group Together?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_lw/2018-11-20.variety.ordination.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I have been looking into community analyses, and I wanted to know whether the ratings performed by each person could help to group the raters into &amp;lsquo;camps&amp;rsquo;. I used the &amp;lsquo;decorana&amp;rsquo; function within the &amp;lsquo;vegan&amp;rsquo; package to conduct a detrended correspondance analysis. I had to fill in the gaps for how people rated, and I filled them in with zeros, which probably screwed up the data and analysis somewhat. It looks like Ricardo and I rated things similarly, and Kelsey and Yanru rated their similarly, but overall there was quite a bit of differentiation among raters.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+
+&lt;p&gt;If you are in the Miami or Homestead area, try to get your hands on some of the local varieties. They weren&amp;rsquo;t all winners, but it was really interesting to taste the West Indian types and see how they all compare with one another.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Powdery Mildew on Filaree</title>
       <link>https://robchoudhury.netlify.com/post/pm-filaree/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
@@ -28,7 +83,7 @@
 
 &lt;p&gt;After running home and grabbing some nitrile gloves and ziplock bags, I collected some samples and headed off for work. I had a close working relationship with Dr. Doug Gubler&amp;rsquo;s lab because I did my master&amp;rsquo;s degree there, so I was able to use their compound microscope to look at the conidia at a higher magnification.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_ucd/SNAP-113923-0006.bmp&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_ucd/SNAP-113923-0006.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;conidial-measurements&#34;&gt;Conidial Measurements&lt;/h2&gt;
 
@@ -295,15 +350,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://robchoudhury.netlify.com/publication/spatiotemporal_sdm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Season-long dynamics of spinach downy mildew determined by spore trapping and disease incidence</title>
-      <link>https://robchoudhury.netlify.com/publication/season_long_sdm/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://robchoudhury.netlify.com/publication/season_long_sdm/</guid>
       <description></description>
     </item>
     

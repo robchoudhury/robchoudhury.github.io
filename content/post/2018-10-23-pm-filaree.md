@@ -22,7 +22,7 @@ I was walking around my neighborhood in Davis, CA one day when I noticed a stran
 
 After running home and grabbing some nitrile gloves and ziplock bags, I collected some samples and headed off for work. I had a close working relationship with Dr. Doug Gubler's lab because I did my master's degree there, so I was able to use their compound microscope to look at the conidia at a higher magnification.
 
-![](/img/img_ucd/SNAP-113923-0006.bmp)
+![](/img/img_ucd/SNAP-113923-0006.jpg)
 
 ## Conidial Measurements
 
