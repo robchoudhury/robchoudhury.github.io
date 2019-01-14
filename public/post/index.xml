@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Haiti Crop Production</title>
+      <link>https://robchoudhury.netlify.com/post/haiti-production/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/post/haiti-production/</guid>
+      <description>Full analysis here
+Global avocado production mostly focuses in Mexico, with the most prominent variety being &amp;lsquo;Hass&amp;rsquo;. I work on a project researching a disease of avocados (and other plants in the same family, Lauraceae) that causes rapid death, laurel wilt. Avocados in Florida are threatened by laurel wilt. Most production occurs in Miami-Dade county, mostly around the Homestead production region. The avocados grown in Florida tend to be of the West Indian races, whereas Hass are Mexican-Guatamalan hybrid races.</description>
+    </item>
+    
+    <item>
       <title>Homestead Avocado Ratings</title>
       <link>https://robchoudhury.netlify.com/post/avocado-ratings/</link>
       <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
@@ -73,6 +83,17 @@ The Data My wife and I rated the mangoes over the course of about a week, tastin
       <description>Bird Age Full analysis is here
 I stumbled across a dataset of bird ages on a USGS website, and wanted to know if there was a relationship between bird age and other variables (weight, wingspan, etc).
 Link Between Bird Age and Phylogenetic Order? I wanted to know if there was any signal for how old birds get if theyre closely related. Ultimately, I would love to know how age is affected by size (weight, wingspan, whatever) but I cant find open datasets for that.</description>
+    </item>
+    
+    <item>
+      <title>Test RMarkdown</title>
+      <link>https://robchoudhury.netlify.com/post/2019-01-14-rmd-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/post/2019-01-14-rmd-test/</guid>
+      <description>GitHub DocumentsThis is an R Markdown format used for publishing markdown documents to GitHub. When you click the Knit button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
+Including CodeYou can include R code in the document as follows:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.</description>
     </item>
     
   </channel>

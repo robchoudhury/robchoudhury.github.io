@@ -11,6 +11,42 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Haiti Crop Production</title>
+      <link>https://robchoudhury.netlify.com/post/haiti-production/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/post/haiti-production/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/robchoudhury/haiti_production&#34; target=&#34;_blank&#34;&gt;Full analysis here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Global avocado production mostly focuses in Mexico, with the most prominent variety being &amp;lsquo;Hass&amp;rsquo;. I work on a project researching a disease of avocados (and other plants in the same family, Lauraceae) that causes rapid death, laurel wilt. Avocados in Florida are threatened by laurel wilt. Most production occurs in Miami-Dade county, mostly around the Homestead production region. The avocados grown in Florida tend to be of the West Indian races, whereas Hass are Mexican-Guatamalan hybrid races. West Indian races are larger (think about the size of a grapefruit) and are more watery and floral than Hass. Most of the varieties grown in south Florida are not exported because they don&amp;rsquo;t ship well. I was fortunately to go down and gather some avocados from the University of Florida Tropical Research and Extension Center (UF-TREC), where my collaborator &lt;a href=&#34;https://trec.ifas.ufl.edu/faculty/jcrane/&#34; target=&#34;_blank&#34;&gt;Dr. Jonathan Crane&lt;/a&gt; works. I brought them back north to the &lt;a href=&#34;http://www.garrettlab.com/&#34; target=&#34;_blank&#34;&gt;Garrett lab in Gainesville&lt;/a&gt;, where we tasted and rated the avocados as they became ripe.&lt;/p&gt;
+
+&lt;h2 id=&#34;leaflet-map&#34;&gt;Leaflet Map&lt;/h2&gt;
+
+&lt;h2 id=&#34;the-data&#34;&gt;The Data&lt;/h2&gt;
+
+&lt;h2 id=&#34;avocado-production&#34;&gt;Avocado Production&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_agriculture/haiti_avocado_map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;banana-and-plantain-production&#34;&gt;Banana and Plantain Production&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_agriculture/haiti_banana_map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mango-production&#34;&gt;Mango Production&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_agriculture/haiti_mango_map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;sweetpotato-production&#34;&gt;Sweetpotato Production&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_agriculture/haiti_sweetpotato_map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Homestead Avocado Ratings</title>
       <link>https://robchoudhury.netlify.com/post/avocado-ratings/</link>
       <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
@@ -341,15 +377,6 @@
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://robchoudhury.netlify.com/publication/powdery_mildew_tallowtree/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatiotemporal patterns in the airborne dispersal of spinach downy mildew</title>
-      <link>https://robchoudhury.netlify.com/publication/spatiotemporal_sdm/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://robchoudhury.netlify.com/publication/spatiotemporal_sdm/</guid>
       <description></description>
     </item>
     

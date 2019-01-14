@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Robin Choudhury</copyright>
-    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://robchoudhury.netlify.com/tags/agriculture/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Haiti Crop Production</title>
+      <link>https://robchoudhury.netlify.com/post/haiti-production/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/post/haiti-production/</guid>
+      <description>Full analysis here
+Global avocado production mostly focuses in Mexico, with the most prominent variety being &amp;lsquo;Hass&amp;rsquo;. I work on a project researching a disease of avocados (and other plants in the same family, Lauraceae) that causes rapid death, laurel wilt. Avocados in Florida are threatened by laurel wilt. Most production occurs in Miami-Dade county, mostly around the Homestead production region. The avocados grown in Florida tend to be of the West Indian races, whereas Hass are Mexican-Guatamalan hybrid races.</description>
+    </item>
     
     <item>
       <title>Homestead Avocado Ratings</title>
