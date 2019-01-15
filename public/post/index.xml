@@ -13,16 +13,6 @@
     
     
     <item>
-      <title>Haiti Crop Production</title>
-      <link>https://robchoudhury.netlify.com/post/haiti-production/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://robchoudhury.netlify.com/post/haiti-production/</guid>
-      <description>Full analysis here
-Haiti is one of our nation&amp;rsquo;s nearest neighbors, and has been a key player in world history over the past 200 years. The Haitian revolution took nearly 15 years and cost countless lives, but resulted in one of the first nations that was slave-free and ruled by non-whites and former captives. The loss of Haiti (then called Saint-Domingue) forced the cash-starved Napoleon to sell the Louisiana territory to the United States, one of the single largest land purchases in our countries history.</description>
-    </item>
-    
-    <item>
       <title>Homestead Avocado Ratings</title>
       <link>https://robchoudhury.netlify.com/post/avocado-ratings/</link>
       <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
@@ -83,17 +73,6 @@ The Data My wife and I rated the mangoes over the course of about a week, tastin
       <description>Bird Age Full analysis is here
 I stumbled across a dataset of bird ages on a USGS website, and wanted to know if there was a relationship between bird age and other variables (weight, wingspan, etc).
 Link Between Bird Age and Phylogenetic Order? I wanted to know if there was any signal for how old birds get if theyre closely related. Ultimately, I would love to know how age is affected by size (weight, wingspan, whatever) but I cant find open datasets for that.</description>
-    </item>
-    
-    <item>
-      <title>Test RMarkdown</title>
-      <link>https://robchoudhury.netlify.com/post/2019-01-14-rmd-test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://robchoudhury.netlify.com/post/2019-01-14-rmd-test/</guid>
-      <description>GitHub DocumentsThis is an R Markdown format used for publishing markdown documents to GitHub. When you click the Knit button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
-Including CodeYou can include R code in the document as follows:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.</description>
     </item>
     
   </channel>
