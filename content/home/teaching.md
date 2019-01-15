@@ -20,3 +20,6 @@ In the past, I have assisted in teaching several courses, including:
 
 - PLP148: Introduction to Mycology with Dr. David Rizzo
 - SAS030: Mushrooms, Molds, and Society with Dr. Thomas Gordon 
+- SAS013: Disease and Society with Dr. Johan Leveau
+- GDB101: Introduction to Epidemiology with Dr. Neil McRoberts
+- PLSC100: Introduction to Horticulture with Dr. Chris Walsh
