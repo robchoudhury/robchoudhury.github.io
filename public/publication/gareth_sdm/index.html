@@ -15,11 +15,10 @@
   
     
   
-  <meta name="description" content="You can find the code for this post at
-Cyclosporiasis is an intestinal sickness caused by the coccidian parasite Cyclospora cayetanensis. An outbreak in 2017 seemingly from Mexican cilantro has affected many people, and the Texas public health board and CDC put out some of the data publically. I wanted to go through this data, make choropleth plots for the counties affected (because I am unfamiliar with Texan counties) and plot out the data.">
+  <meta name="description" content="For an ordinary least squares regression model, the coefficient of determination R^{2} describes the proportion (or percentage) of variance of the response variable explained by the model, and is a widely-accepted summary measure of predictive power. A number of R^{2}-analogues are available as summary measures of predictive power for logistic regression models, including models of disease risk. Tjur’s R^{2} and McFadden’s R^{2} are of particular interest in this context. Both these R^{2}-analogues have transparent derivations, which reveal that they apply to different aspects of model evaluation: Tjur’s R^{2} is a measure of separation between (known) actual states (e.g., gold standard determinations of “healthy” or “diseased” status) whereas McFadden’s R^{2} is a measure of separation between predicted states (e.g., forecasts of disease status based on models of disease risk). This clarifies their interpretation in the context of evaluation of logistic regression models of disease risk. In addition, versions of both Tjur’s R^{2} and McFadden’s R^{2} may be obtained from analyses of disease risk that are not preceded by logistic regression analysis.Tjur’s R^{2} and McFadden’s R^{2} are shown to be useful, distinct summary measures of predictive power for epidemiological models of disease risk.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://robchoudhury.netlify.com/post/cyclosporiapsis-outbreak-in-texas-2017/">
+  <link rel="alternate" hreflang="en-us" href="https://robchoudhury.netlify.com/publication/gareth_sdm/">
 
   
 
@@ -97,7 +96,7 @@ Cyclosporiasis is an intestinal sickness caused by the coccidian parasite Cyclos
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://robchoudhury.netlify.com/post/cyclosporiapsis-outbreak-in-texas-2017/">
+  <link rel="canonical" href="https://robchoudhury.netlify.com/publication/gareth_sdm/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -105,22 +104,21 @@ Cyclosporiasis is an intestinal sickness caused by the coccidian parasite Cyclos
   <meta property="twitter:creator" content="@rob_choudhury">
   
   <meta property="og:site_name" content="Robin Choudhury">
-  <meta property="og:url" content="https://robchoudhury.netlify.com/post/cyclosporiapsis-outbreak-in-texas-2017/">
-  <meta property="og:title" content="Cyclosporiapsis Outbreak in Texas 2017 | Robin Choudhury">
-  <meta property="og:description" content="You can find the code for this post at
-Cyclosporiasis is an intestinal sickness caused by the coccidian parasite Cyclospora cayetanensis. An outbreak in 2017 seemingly from Mexican cilantro has affected many people, and the Texas public health board and CDC put out some of the data publically. I wanted to go through this data, make choropleth plots for the counties affected (because I am unfamiliar with Texan counties) and plot out the data."><meta property="og:image" content="https://robchoudhury.netlify.com/img/img_cyclospora/USSep13.png">
+  <meta property="og:url" content="https://robchoudhury.netlify.com/publication/gareth_sdm/">
+  <meta property="og:title" content="Summary measures of predictive power associated with logistic regression models of disease risk | Robin Choudhury">
+  <meta property="og:description" content="For an ordinary least squares regression model, the coefficient of determination R^{2} describes the proportion (or percentage) of variance of the response variable explained by the model, and is a widely-accepted summary measure of predictive power. A number of R^{2}-analogues are available as summary measures of predictive power for logistic regression models, including models of disease risk. Tjur’s R^{2} and McFadden’s R^{2} are of particular interest in this context. Both these R^{2}-analogues have transparent derivations, which reveal that they apply to different aspects of model evaluation: Tjur’s R^{2} is a measure of separation between (known) actual states (e.g., gold standard determinations of “healthy” or “diseased” status) whereas McFadden’s R^{2} is a measure of separation between predicted states (e.g., forecasts of disease status based on models of disease risk). This clarifies their interpretation in the context of evaluation of logistic regression models of disease risk. In addition, versions of both Tjur’s R^{2} and McFadden’s R^{2} may be obtained from analyses of disease risk that are not preceded by logistic regression analysis.Tjur’s R^{2} and McFadden’s R^{2} are shown to be useful, distinct summary measures of predictive power for epidemiological models of disease risk.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-09-22T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2018-09-01T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2018-09-22T00:00:00&#43;00:00">
-  
-
+  <meta property="article:modified_time" content="2018-09-01T00:00:00&#43;00:00">
   
 
   
 
-  <title>Cyclosporiapsis Outbreak in Texas 2017 | Robin Choudhury</title>
+  
+
+  <title>Summary measures of predictive power associated with logistic regression models of disease risk | Robin Choudhury</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -253,96 +251,53 @@ Cyclosporiasis is an intestinal sickness caused by the coccidian parasite Cyclos
   </div>
 </nav>
 
-
-<article class="article" itemscope itemtype="http://schema.org/Article">
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
-<div class="article-header">
-  
-  
-    <img src="/img/img_cyclospora/USSep13.png" class="article-banner" itemprop="image">
-  
-
-  <span class="article-header-caption">Bad food: as of 2017-09-13, the outbreak had spread to several US states.</span>
-</div>
-
 
 
   <div class="article-container">
-    <h1 itemprop="name">Cyclosporiapsis Outbreak in Texas 2017</h1>
-
-    
-
-<div class="article-metadata">
-
-  
-  
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Robin Choudhury">
-  </span>
-  
-
-  <span class="article-date">
-    
-    <meta content="2018-09-22 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2018-09-22 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-      Sep 22, 2018
-    </time>
-  </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Robin Choudhury">
-  </span>
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    2 min read
-  </span>
-  
-
-  
-  
-
-  
-  
-  
-  
-
-  
-  
+    <h1 itemprop="name">Summary measures of predictive power associated with logistic regression models of disease risk</h1>
+    <span class="pub-authors" itemprop="author">
+      
+      G. Hughes, R. A. Choudhury, N. McRoberts
+      
+    </span>
+    <span class="pull-right">
+      
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Cyclosporiapsis%20Outbreak%20in%20Texas%202017&amp;url=https%3a%2f%2frobchoudhury.netlify.com%2fpost%2fcyclosporiapsis-outbreak-in-texas-2017%2f"
+         href="https://twitter.com/intent/tweet?text=Summary%20measures%20of%20predictive%20power%20associated%20with%20logistic%20regression%20models%20of%20disease%20risk&amp;url=https%3a%2f%2frobchoudhury.netlify.com%2fpublication%2fgareth_sdm%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2frobchoudhury.netlify.com%2fpost%2fcyclosporiapsis-outbreak-in-texas-2017%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2frobchoudhury.netlify.com%2fpublication%2fgareth_sdm%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2frobchoudhury.netlify.com%2fpost%2fcyclosporiapsis-outbreak-in-texas-2017%2f&amp;title=Cyclosporiapsis%20Outbreak%20in%20Texas%202017"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2frobchoudhury.netlify.com%2fpublication%2fgareth_sdm%2f&amp;title=Summary%20measures%20of%20predictive%20power%20associated%20with%20logistic%20regression%20models%20of%20disease%20risk"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2frobchoudhury.netlify.com%2fpost%2fcyclosporiapsis-outbreak-in-texas-2017%2f&amp;title=Cyclosporiapsis%20Outbreak%20in%20Texas%202017"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2frobchoudhury.netlify.com%2fpublication%2fgareth_sdm%2f&amp;title=Summary%20measures%20of%20predictive%20power%20associated%20with%20logistic%20regression%20models%20of%20disease%20risk"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Cyclosporiapsis%20Outbreak%20in%20Texas%202017&amp;body=https%3a%2f%2frobchoudhury.netlify.com%2fpost%2fcyclosporiapsis-outbreak-in-texas-2017%2f">
+         href="mailto:?subject=Summary%20measures%20of%20predictive%20power%20associated%20with%20logistic%20regression%20models%20of%20disease%20risk&amp;body=https%3a%2f%2frobchoudhury.netlify.com%2fpublication%2fgareth_sdm%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -350,84 +305,113 @@ Cyclosporiasis is an intestinal sickness caused by the coccidian parasite Cyclos
 </div>
 
 
-  
+    </span>
 
-</div>
+    
+    <img src="/img/img_sdm/sdm_dot_hist_facet.png" class="pub-banner" itemprop="image">
+    
 
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">For an ordinary least squares regression model, the coefficient of determination R^{2} describes the proportion (or percentage) of variance of the response variable explained by the model, and is a widely-accepted summary measure of predictive power. A number of R^{2}-analogues are available as summary measures of predictive power for logistic regression models, including models of disease risk. Tjur’s R^{2} and McFadden’s R^{2} are of particular interest in this context. Both these R^{2}-analogues have transparent derivations, which reveal that they apply to different aspects of model evaluation: Tjur’s R^{2} is a measure of separation between (known) actual states (e.g., gold standard determinations of “healthy” or “diseased” status) whereas McFadden’s R^{2} is a measure of separation between predicted states (e.g., forecasts of disease status based on models of disease risk). This clarifies their interpretation in the context of evaluation of logistic regression models of disease risk. In addition, versions of both Tjur’s R^{2} and McFadden’s R^{2} may be obtained from analyses of disease risk that are not preceded by logistic regression analysis.Tjur’s R^{2} and McFadden’s R^{2} are shown to be useful, distinct summary measures of predictive power for epidemiological models of disease risk.</p>
+    
 
-    <div class="article-style" itemprop="articleBody">
-      
+    
 
-<p><a href="https://github.com/robchoudhury/TexasCyclospora" target="_blank">You can find the code for this post at</a></p>
-
-<p>Cyclosporiasis is an intestinal sickness caused by the coccidian parasite <em>Cyclospora cayetanensis</em>. An outbreak in 2017 seemingly from Mexican cilantro has affected many people, and the Texas public health board and CDC put out some of the data publically. I wanted to go through this data, make choropleth plots for the counties affected (because I am unfamiliar with Texan counties) and plot out the data. This was also prompted because I ate some cilantro and immediately went into hypochondriac mode.</p>
-
-<h2 id="where-is-the-outbreak-occurring-in-texas">Where is the Outbreak Occurring in Texas?</h2>
-
-<p><img src="/img/img_cyclospora/Aug02.png" alt="" />
-<img src="/img/img_cyclospora/Aug22.png" alt="" /></p>
-
-<p>Over a 20-day period, the several counties in Texas. Things really light up in the counties that countain big cities like Houston, Austin, and Dallas.</p>
-
-<h2 id="what-happened-over-the-course-of-the-epidemic">What Happened Over the Course of the Epidemic?</h2>
-
-<p><img src="/img/img_cyclospora/timeline.png" alt="" />
-<img src="/img/img_cyclospora/totalcases.png" alt="" /></p>
-
-<p>Based on the CDC dataset, we can see that things get pretty bad, but start to settle down after mid-July. This may have been due to raised awareness of the outbreak or removal of the affected material from shelves and stores.</p>
-
-<h2 id="conclusions">Conclusions</h2>
-
-<p>Overall, this outbreak highlighted the interconnectedness of agricultural trade, especially with Mexico, and the vulnerability of these systems to even small amounts of distant contamination. Understanding epidemic dynamics and mapping out locations of disease can help to highlight areas that are especially susceptible to problems.</p>
-
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+          <div class="col-xs-12 col-sm-9">Phytopathology 109: In Press</div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
     </div>
+    <div class="visible-xs space-below"></div>
+    
+
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+          <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+            September, 2018
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="row" style="padding-top: 10px">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+          <div class="col-xs-12 col-sm-9">
+
+            
+
+
+
+
+<a class="btn btn-primary btn-outline" href="https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-09-18-0356-LE" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
 
     
 
 
 <div class="article-tags">
   
-  <a class="label label-default" href="https://robchoudhury.netlify.com/tags/data-science/">data science</a>
+  <a class="label label-default" href="https://robchoudhury.netlify.com/tags/mycology/">mycology</a>
   
-  <a class="label label-default" href="https://robchoudhury.netlify.com/tags/cartography/">cartography</a>
+  <a class="label label-default" href="https://robchoudhury.netlify.com/tags/biology/">biology</a>
   
   <a class="label label-default" href="https://robchoudhury.netlify.com/tags/epidemiology/">epidemiology</a>
   
-  <a class="label label-default" href="https://robchoudhury.netlify.com/tags/random/">random</a>
+  <a class="label label-default" href="https://robchoudhury.netlify.com/tags/agriculture/">agriculture</a>
+  
+  <a class="label label-default" href="https://robchoudhury.netlify.com/tags/information-theory/">information theory</a>
   
 </div>
 
 
 
 
-    
-    
-    <div class="article-widget">
-      <div class="hr-light"></div>
-      <h3>Related</h3>
-      <ul>
-        
-        <li><a href="/post/miami-mango-ratings/">Miami Mango Ratings</a></li>
-        
-        <li><a href="/post/bird-ages/">Bird Ages</a></li>
-        
-        <li><a href="/publication/gareth_sdm/">Summary measures of predictive power associated with logistic regression models of disease risk</a></li>
-        
-        <li><a href="/publication/network_annualreview/">Network analysis: a systems framework to address grand challenges in plant pathology</a></li>
-        
-        <li><a href="/publication/climate_change_coffee/">Climate change, carbon dioxide, and pest biology, managing the future: coffee as a case study</a></li>
-        
-      </ul>
-    </div>
-    
-
-    
-
-    
-
-
   </div>
-</article>
+</div>
+
+
 
 <footer class="site-footer">
   <div class="container">
@@ -486,6 +470,15 @@ Cyclosporiasis is an intestinal sickness caused by the coccidian parasite Cyclos
 
     
     
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        CommonHTML: { linebreaks: { automatic: true } },
+        tex2jax: { inlineMath: [ ['$', '$'], ['\\(','\\)'] ], displayMath: [ ['$$','$$'], ['\\[', '\\]'] ], processEscapes: false },
+        TeX: { noUndefined: { attributes: { mathcolor: 'red', mathbackground: '#FFEEEE', mathsize: '90%' } } },
+        messageStyle: 'none'
+      });
+    </script>
+    
 
     
     
@@ -503,6 +496,8 @@ Cyclosporiasis is an intestinal sickness caused by the coccidian parasite Cyclos
       
 
       
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
       
     
 

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Robin Choudhury</copyright>
-    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://robchoudhury.netlify.com/tags/mycology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Summary measures of predictive power associated with logistic regression models of disease risk</title>
+      <link>https://robchoudhury.netlify.com/publication/gareth_sdm/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.netlify.com/publication/gareth_sdm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Network analysis: a systems framework to address grand challenges in plant pathology</title>
