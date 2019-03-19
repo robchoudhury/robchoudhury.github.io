@@ -10,7 +10,7 @@
     {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
     {{ if gt $posts_len $page.Params.count }}
     <p class="view-all">
-      <a href="{{ ($.Site.GetPage "section" "art").Permalink }}">
+      <a href="{{ ($.Site.GetPage "section" "post").Permalink }}">
         {{ i18n "more_posts" | markdownify }}
         <i class="fa fa-angle-double-right"></i>
       </a>
@@ -26,7 +26,7 @@
       {{ $posts := where (where (where $.Site.RegularPages "Type" "art") ".Params.tags" "intersect" $page.Params.tags_include) ".Params.notonhomepage" nil }}
 
       {{ $.Scratch.Add "show_post" "1" }}
-      {{ range $art:= first $page.Params.count $posts }}
+      {{ range $post := first $page.Params.count $posts }}
 
         {{ $.Scratch.Set "show_post" "1" }}
 
@@ -44,7 +44,7 @@
 
       {{ $show_post := $.Scratch.Get "show_post" }}
       {{ if ne $show_post "0" }}
-        {{ $params := dict "art" . }}
+        {{ $params := dict "post" . }}
         {{ if eq $page.Params.list_format 0 }}
           {{ partial "post_li_simple" $params }}
         {{ else }}
@@ -57,7 +57,7 @@
       {{ $posts := where (where $.Site.RegularPages "Type" "art") ".Params.notonhomepage" nil }}
 
       {{ $.Scratch.Add "show_post" "1" }}
-      {{ range $art := first $page.Params.count $posts }}
+      {{ range $post := first $page.Params.count $posts }}
 
         {{ $.Scratch.Set "show_post" "1" }}
 
@@ -75,7 +75,7 @@
 
       {{ $show_post := $.Scratch.Get "show_post" }}
       {{ if ne $show_post "0" }}
-        {{ $params := dict "art" . }}
+        {{ $params := dict "post" . }}
         {{ if eq $page.Params.list_format 0 }}
           {{ partial "post_li_simple" $params }}
         {{ else }}
