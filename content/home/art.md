@@ -9,7 +9,7 @@ title = "Science Art"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 70
 
 # Filter posts by tag.
 #  By default, show all recent posts.
