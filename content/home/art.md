@@ -1,7 +1,7 @@
 +++
 # Recent Posts widget.
 # This widget displays recent posts from `content/post/`.
-widget = "posts"
+widget = "art"
 active = true
 date = 2016-04-20T00:00:00
 
@@ -19,7 +19,7 @@ tags_exclude = []
 
 # Number of posts to list.
 count = 5
-folder = "art"
+
 # List format.
 #   0 = Simple
 #   1 = Detailed
