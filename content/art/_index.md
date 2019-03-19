@@ -9,7 +9,6 @@ highlight = false
 #   1 = Detailed
 list_format = 1
 
-count = 5
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
