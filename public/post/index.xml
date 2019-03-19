@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Robin Choudhury</title>
-    <link>https://robchoudhury.netlify.com/post/</link>
+    <link>https://robchoudhury.com/post/</link>
     <description>Recent content in Posts on Robin Choudhury</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Robin Choudhury</copyright>
+    <copyright>&amp;copy; 2019 Robin Choudhury</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://robchoudhury.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://robchoudhury.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Haiti Crop Production</title>
-      <link>https://robchoudhury.netlify.com/post/haiti-production/</link>
+      <link>https://robchoudhury.com/post/haiti-production/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/post/haiti-production/</guid>
+      <guid>https://robchoudhury.com/post/haiti-production/</guid>
       <description>Full analysis here
 Haiti is one of our nation&amp;rsquo;s nearest neighbors, and has been a key player in world history over the past 200 years. The Haitian revolution took nearly 15 years and cost countless lives, but resulted in one of the first nations that was slave-free and ruled by non-whites and former captives. The loss of Haiti (then called Saint-Domingue) forced the cash-starved Napoleon to sell the Louisiana territory to the United States, one of the single largest land purchases in our countries history.</description>
     </item>
     
     <item>
       <title>Homestead Avocado Ratings</title>
-      <link>https://robchoudhury.netlify.com/post/avocado-ratings/</link>
+      <link>https://robchoudhury.com/post/avocado-ratings/</link>
       <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/post/avocado-ratings/</guid>
+      <guid>https://robchoudhury.com/post/avocado-ratings/</guid>
       <description>Full analysis here
 Global avocado production mostly focuses in Mexico, with the most prominent variety being &amp;lsquo;Hass&amp;rsquo;. I work on a project researching a disease of avocados (and other plants in the same family, Lauraceae) that causes rapid death, laurel wilt. Avocados in Florida are threatened by laurel wilt. Most production occurs in Miami-Dade county, mostly around the Homestead production region. The avocados grown in Florida tend to be of the West Indian races, whereas Hass are Mexican-Guatamalan hybrid races.</description>
     </item>
     
     <item>
       <title>Powdery Mildew on Filaree</title>
-      <link>https://robchoudhury.netlify.com/post/pm-filaree/</link>
+      <link>https://robchoudhury.com/post/pm-filaree/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/post/pm-filaree/</guid>
+      <guid>https://robchoudhury.com/post/pm-filaree/</guid>
       <description>Full data and analysis here
 Publication here
 Powdery Mildew on Whitestem Filaree I was walking around my neighborhood in Davis, CA one day when I noticed a strange looking weed on the ground that had powdery mildew on it&amp;rsquo;s surface. Powdery mildews are a group of biotrophic fungi that I had studied for my master&amp;rsquo;s degree. They are often times host specific, and do not regularly kill their host, but rather sap nutrients and water from the epidermal cells.</description>
@@ -45,30 +45,30 @@ Powdery Mildew on Whitestem Filaree I was walking around my neighborhood in Davi
     
     <item>
       <title>Colors</title>
-      <link>https://robchoudhury.netlify.com/post/colors/</link>
+      <link>https://robchoudhury.com/post/colors/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/post/colors/</guid>
+      <guid>https://robchoudhury.com/post/colors/</guid>
       <description>There has been more and more research on how to better design figures and color schemes to suit a broader audience. Roughly 8% of men and 0.5% of women have some sort of colorblindness, so if I present a figure during an extension or scientific talk, I really need to make sure that the information comes across correctly.
 Luckily, there are lots of great packages out there that give options on what color scales I can use.</description>
     </item>
     
     <item>
       <title>Cyclosporiapsis Outbreak in Texas 2017</title>
-      <link>https://robchoudhury.netlify.com/post/cyclosporiapsis-outbreak-in-texas-2017/</link>
+      <link>https://robchoudhury.com/post/cyclosporiapsis-outbreak-in-texas-2017/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/post/cyclosporiapsis-outbreak-in-texas-2017/</guid>
+      <guid>https://robchoudhury.com/post/cyclosporiapsis-outbreak-in-texas-2017/</guid>
       <description>You can find the code for this post at
 Cyclosporiasis is an intestinal sickness caused by the coccidian parasite Cyclospora cayetanensis. An outbreak in 2017 seemingly from Mexican cilantro has affected many people, and the Texas public health board and CDC put out some of the data publically. I wanted to go through this data, make choropleth plots for the counties affected (because I am unfamiliar with Texan counties) and plot out the data.</description>
     </item>
     
     <item>
       <title>Miami Mango Ratings</title>
-      <link>https://robchoudhury.netlify.com/post/miami-mango-ratings/</link>
+      <link>https://robchoudhury.com/post/miami-mango-ratings/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/post/miami-mango-ratings/</guid>
+      <guid>https://robchoudhury.com/post/miami-mango-ratings/</guid>
       <description>Full analysis here
 Mangos are grown widely in South Florida, but only a few varieties ever make it north, because they don’t really ship well and there isn’t a huge market. I ended up receiving some rare varieties from a collaborator down south, and I wanted to know how they ranked one to another, so my wife and I rated the different varieties.
 The Data My wife and I rated the mangoes over the course of about a week, tasting the different varieties as they felt more and more ripe.</description>
@@ -76,10 +76,10 @@ The Data My wife and I rated the mangoes over the course of about a week, tastin
     
     <item>
       <title>Bird Ages</title>
-      <link>https://robchoudhury.netlify.com/post/bird-ages/</link>
+      <link>https://robchoudhury.com/post/bird-ages/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/post/bird-ages/</guid>
+      <guid>https://robchoudhury.com/post/bird-ages/</guid>
       <description>Bird Age Full analysis is here
 I stumbled across a dataset of bird ages on a USGS website, and wanted to know if there was a relationship between bird age and other variables (weight, wingspan, etc).
 Link Between Bird Age and Phylogenetic Order? I wanted to know if there was any signal for how old birds get if theyre closely related. Ultimately, I would love to know how age is affected by size (weight, wingspan, whatever) but I cant find open datasets for that.</description>

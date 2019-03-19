@@ -2,20 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robin Choudhury on Robin Choudhury</title>
-    <link>https://robchoudhury.netlify.com/</link>
+    <link>https://robchoudhury.com/</link>
     <description>Recent content in Robin Choudhury on Robin Choudhury</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Robin Choudhury</copyright>
+    <copyright>&amp;copy; 2019 Robin Choudhury</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Amanita Birthday Card Painting</title>
+      <link>https://robchoudhury.com/art/amanita-bday-painting/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.com/art/amanita-bday-painting/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m lucky to have some great sisters, so I drew an Amanita and painted it with watercolors and a sharpie pen as a birthday card for her!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Haiti Crop Production</title>
-      <link>https://robchoudhury.netlify.com/post/haiti-production/</link>
+      <link>https://robchoudhury.com/post/haiti-production/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/post/haiti-production/</guid>
+      <guid>https://robchoudhury.com/post/haiti-production/</guid>
       <description>
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/robchoudhury/haiti_production&#34; target=&#34;_blank&#34;&gt;Full analysis here&lt;/a&gt;&lt;/p&gt;
@@ -32,7 +42,7 @@
 
 &lt;p&gt;I was primarily concerned about finding out more about avocado production in Haiti. Avocado production in Haiti and the Dominican Republic are important both for local and export markets, as well as for food security. Most of the fruit are West Indian types, which are typically greener, and have a less buttery feel to them than Hass varieties. We grow a ton (~8000 acres) of West Indian varieties, and Dominican Republic is our main market competitors. Many of the varieties that are in Haiti were brought there from California and Florida in the mid-1920&amp;rsquo;s to the Central Experiment Station of the Hatian Dept. of Ag. near Port au Prince.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_agriculture/haiti_avocado_map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_agriculture/haiti_avocado_map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This map shows some fairly heavy production in the Artibonite and Grand-Anse regions as well as in the Nord and Centre Departments. We now need to locate important agricultural ports and run some wind run models to see what is the liklihood of the disease reaching these areas. That is for a future publication&lt;/p&gt;
 
@@ -40,13 +50,13 @@
 
 &lt;p&gt;We were interested in banana and plantain production because of Toppling disease, and it looks (based on this map) like much of the production is in the Ouest Department. We are currently comparing these data to other published data to see if it matches with what has previously been reported for banana production.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_agriculture/haiti_banana_map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_agriculture/haiti_banana_map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;mango-production&#34;&gt;Mango Production&lt;/h2&gt;
 
 &lt;p&gt;Mangos are incredibly delicious (see &lt;a href=&#34;https://robchoudhury.netlify.com/post/miami-mango-ratings/&#34; target=&#34;_blank&#34;&gt;my previous blogpost&lt;/a&gt; if you don&amp;rsquo;t believe me!), and are both nutritionally and economically important for Haiti.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_agriculture/haiti_mango_map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_agriculture/haiti_mango_map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Most of Haitian mango production is in the Artibonite and Nord Departments.&lt;/p&gt;
 
@@ -54,7 +64,7 @@
 
 &lt;p&gt;Sweetpotatoes were the trickiest. The Haitian word, &amp;lsquo;patate&amp;rsquo; sounds VERY close to potato; luckily Joubert corrected my rookie mistake!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_agriculture/haiti_sweetpotato_map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_agriculture/haiti_sweetpotato_map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Like many of the other crops here, there is heavy production in Arbonite Department.&lt;/p&gt;
 
@@ -66,10 +76,10 @@
     
     <item>
       <title>Homestead Avocado Ratings</title>
-      <link>https://robchoudhury.netlify.com/post/avocado-ratings/</link>
+      <link>https://robchoudhury.com/post/avocado-ratings/</link>
       <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/post/avocado-ratings/</guid>
+      <guid>https://robchoudhury.com/post/avocado-ratings/</guid>
       <description>
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/robchoudhury/avocado_tasting&#34; target=&#34;_blank&#34;&gt;Full analysis here&lt;/a&gt;&lt;/p&gt;
@@ -77,7 +87,7 @@
 &lt;p&gt;Global avocado production mostly focuses in Mexico, with the most prominent variety being &amp;lsquo;Hass&amp;rsquo;. I work on a project researching a disease of avocados (and other plants in the same family, Lauraceae) that causes rapid death, laurel wilt. Avocados in Florida are threatened by laurel wilt. Most production occurs in Miami-Dade county, mostly around the Homestead production region. The avocados grown in Florida tend to be of the West Indian races, whereas Hass are Mexican-Guatamalan hybrid races. West Indian races are larger (think about the size of a grapefruit) and are more watery and floral than Hass. Most of the varieties grown in south Florida are not exported because they don&amp;rsquo;t ship well. I was fortunately to go down and gather some avocados from the University of Florida Tropical Research and Extension Center (UF-TREC), where my collaborator &lt;a href=&#34;https://trec.ifas.ufl.edu/faculty/jcrane/&#34; target=&#34;_blank&#34;&gt;Dr. Jonathan Crane&lt;/a&gt; works. I brought them back north to the &lt;a href=&#34;http://www.garrettlab.com/&#34; target=&#34;_blank&#34;&gt;Garrett lab in Gainesville&lt;/a&gt;, where we tasted and rated the avocados as they became ripe.&lt;/p&gt;
 
 &lt;p&gt;Here they are!
-&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_lw/IMG_20181008_084604.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://robchoudhury.com/img/img_lw/IMG_20181008_084604.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;the-data&#34;&gt;The Data&lt;/h2&gt;
 
@@ -85,7 +95,7 @@
 
 &lt;h2 id=&#34;how-did-they-perform&#34;&gt;How Did They Perform?&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_lw/2018-11-20.variety.rating.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_lw/2018-11-20.variety.rating.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So overall, it looks like &lt;em&gt;Lara Red&lt;/em&gt;, &lt;em&gt;Tonnage&lt;/em&gt;, and &lt;em&gt;Pahokee&lt;/em&gt; were top of the heap, but the others were all close behind.&lt;/p&gt;
 
@@ -93,23 +103,23 @@
 
 &lt;h2 id=&#34;did-people-have-different-views-on-the-avocados&#34;&gt;Did people have different views on the avocados?&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_lw/2018-11-20.variety.rating.person.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_lw/2018-11-20.variety.rating.person.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;YES! Overall, some people were quite positive about some varieties and negative about others. However, most people had similar ratings across the board, with only a few people with distinct opinions on the avocados. Kelsey and I rated the most avocados over the period, so ours tended to be the most negative. I was curious if there was a relationship between the number of avocados that we rated and the mean avocado rating we had, so I did a simple linear regression of the two.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_lw/2018-11-20.variety.rating.lm.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_lw/2018-11-20.variety.rating.lm.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;There was a decent relationship between the two, with an R^2 of 0.4447 and a p value of 0.0297. It seems that for every additional avocado a person rated, their mean rating score dropped by about 0.2, which is noticable.&lt;/p&gt;
 
 &lt;h2 id=&#34;was-there-an-effect-of-time&#34;&gt;Was there an effect of time?&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_lw/2018-11-20.variety.rating.date.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_lw/2018-11-20.variety.rating.date.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;YES! It looks like as the week wore on, people got more and more tired of avocados. While the first few varieties garnered wide support, the later varieties were not as popular. However, its difficult to disentangle the effect of rating date with variety itself, as we did not taste the varieties all on the same day, but rather on sequential days.&lt;/p&gt;
 
 &lt;h2 id=&#34;did-raters-group-together&#34;&gt;Did Raters Group Together?&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_lw/2018-11-20.variety.ordination.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_lw/2018-11-20.variety.ordination.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I have been looking into community analyses, and I wanted to know whether the ratings performed by each person could help to group the raters into &amp;lsquo;camps&amp;rsquo;. I used the &amp;lsquo;decorana&amp;rsquo; function within the &amp;lsquo;vegan&amp;rsquo; package to conduct a detrended correspondance analysis. I had to fill in the gaps for how people rated, and I filled them in with zeros, which probably screwed up the data and analysis somewhat. It looks like Ricardo and I rated things similarly, and Kelsey and Yanru rated their similarly, but overall there was quite a bit of differentiation among raters.&lt;/p&gt;
 
@@ -121,10 +131,10 @@
     
     <item>
       <title>Powdery Mildew on Filaree</title>
-      <link>https://robchoudhury.netlify.com/post/pm-filaree/</link>
+      <link>https://robchoudhury.com/post/pm-filaree/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/post/pm-filaree/</guid>
+      <guid>https://robchoudhury.com/post/pm-filaree/</guid>
       <description>
 
 &lt;p&gt;Full data and analysis &lt;a href=&#34;https://github.com/robchoudhury/pm_filaree&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
@@ -137,7 +147,7 @@
 
 &lt;p&gt;After running home and grabbing some nitrile gloves and ziplock bags, I collected some samples and headed off for work. I had a close working relationship with Dr. Doug Gubler&amp;rsquo;s lab because I did my master&amp;rsquo;s degree there, so I was able to use their compound microscope to look at the conidia at a higher magnification.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_ucd/SNAP-113923-0006.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_ucd/SNAP-113923-0006.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;conidial-measurements&#34;&gt;Conidial Measurements&lt;/h2&gt;
 
@@ -145,17 +155,17 @@
 
 &lt;p&gt;We wanted to take measurements of different microscopic portions of the fungus to compare with those of described species, so we measured the length of the conidiophore as well as the length and width of the conidia themselves.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_ucd/conidiophore_length_filaree_pm.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_ucd/conidiophore_length_filaree_pm.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The conidiophore lengths were typical for &lt;em&gt;Podosphaera&lt;/em&gt; spp., and the length to width ratio were as well.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_ucd/length_width_ratio_filaree_pm.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_ucd/length_width_ratio_filaree_pm.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;phylogenetic-analysis&#34;&gt;Phylogenetic Analysis&lt;/h2&gt;
 
 &lt;p&gt;We wanted to know how our isolate was phylogenetically related to other isolates within the genus &lt;em&gt;Podosphaera&lt;/em&gt;. This might help us narrow down which species the isolate belongs to, as well as provides the scientific community more broadly a record for the isolate that we had collected. We isolated DNA and amplified for parts of the internal transcribed spacer (ITS) region, a highly variable region flanked by stable sequences, allowing for relatively high-resolution phylogenetic identification of isolates of fungi. We compared our isolates to those of other &lt;em&gt;Podosphaera&lt;/em&gt; species, and found that our isolate was identical to a sequence for a supposed &lt;em&gt;Podosphaera xanthii&lt;/em&gt; that was collected from papaya in asia.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_ucd/podosphaera_filaree_phylogeny.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_ucd/podosphaera_filaree_phylogeny.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;a-case-of-mistaken-identity&#34;&gt;A Case of Mistaken Identity?&lt;/h2&gt;
 
@@ -171,10 +181,10 @@
     
     <item>
       <title>Colors</title>
-      <link>https://robchoudhury.netlify.com/post/colors/</link>
+      <link>https://robchoudhury.com/post/colors/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/post/colors/</guid>
+      <guid>https://robchoudhury.com/post/colors/</guid>
       <description>
 
 &lt;p&gt;There has been more and more research on how to better design figures and color schemes to suit a broader audience. Roughly 8% of men and 0.5% of women have some sort of colorblindness, so if I present a figure during an extension or scientific talk, I really need to make sure that the information comes across correctly.&lt;/p&gt;
@@ -189,7 +199,7 @@
 &lt;p&gt;pals::pal.bands(pals::ocean.thermal, viridis::plasma, viridis::magma,pals::ocean.matter, pals::ocean.oxy, viridis::inferno, viridis::viridis, pals::parula , pals::ocean.haline, viridis::cividis)&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_colors/colors_compare.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_colors/colors_compare.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So the palettes that are available through the pals package seem to be useful, and seem to mimic what we see in viridis. I really like the Parula palette, it reminds me of the old-school Matlab plots, very retro chic.&lt;/p&gt;
 
@@ -201,7 +211,7 @@
 &lt;p&gt;pals::pal.safe(pals::parula)&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_colors/colors_cb_safe.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_colors/colors_cb_safe.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It looks like the Parula palette is fairly safe and uniform for those with BW/Deutan/Protan blindness, but not as uniform for Tritan. Ideally, we would want a palette that can cover all of them. Check out this great article describing the creation of the cividis color palette &lt;a href=&#34;https://arxiv.org/abs/1712.01662&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, and how it is likely one of the more optimal settings for figures.&lt;/p&gt;
 
@@ -213,7 +223,7 @@
 &lt;p&gt;scales::show_col(colorRampPalette(rcartocolor::carto_pal(name = &amp;ldquo;ag_Sunset&amp;rdquo;))(25))&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_colors/ag_sunset.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_colors/ag_sunset.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;conclusions&#34;&gt;Conclusions?&lt;/h2&gt;
 
@@ -223,10 +233,10 @@
     
     <item>
       <title>Cyclosporiapsis Outbreak in Texas 2017</title>
-      <link>https://robchoudhury.netlify.com/post/cyclosporiapsis-outbreak-in-texas-2017/</link>
+      <link>https://robchoudhury.com/post/cyclosporiapsis-outbreak-in-texas-2017/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/post/cyclosporiapsis-outbreak-in-texas-2017/</guid>
+      <guid>https://robchoudhury.com/post/cyclosporiapsis-outbreak-in-texas-2017/</guid>
       <description>
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/robchoudhury/TexasCyclospora&#34; target=&#34;_blank&#34;&gt;You can find the code for this post at&lt;/a&gt;&lt;/p&gt;
@@ -235,15 +245,15 @@
 
 &lt;h2 id=&#34;where-is-the-outbreak-occurring-in-texas&#34;&gt;Where is the Outbreak Occurring in Texas?&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_cyclospora/Aug02.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_cyclospora/Aug22.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_cyclospora/Aug02.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://robchoudhury.com/img/img_cyclospora/Aug22.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Over a 20-day period, the several counties in Texas. Things really light up in the counties that countain big cities like Houston, Austin, and Dallas.&lt;/p&gt;
 
 &lt;h2 id=&#34;what-happened-over-the-course-of-the-epidemic&#34;&gt;What Happened Over the Course of the Epidemic?&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_cyclospora/timeline.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_cyclospora/totalcases.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_cyclospora/timeline.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://robchoudhury.com/img/img_cyclospora/totalcases.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Based on the CDC dataset, we can see that things get pretty bad, but start to settle down after mid-July. This may have been due to raised awareness of the outbreak or removal of the affected material from shelves and stores.&lt;/p&gt;
 
@@ -255,19 +265,19 @@
     
     <item>
       <title>Summary measures of predictive power associated with logistic regression models of disease risk</title>
-      <link>https://robchoudhury.netlify.com/publication/gareth_sdm/</link>
+      <link>https://robchoudhury.com/publication/gareth_sdm/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/gareth_sdm/</guid>
+      <guid>https://robchoudhury.com/publication/gareth_sdm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Miami Mango Ratings</title>
-      <link>https://robchoudhury.netlify.com/post/miami-mango-ratings/</link>
+      <link>https://robchoudhury.com/post/miami-mango-ratings/</link>
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/post/miami-mango-ratings/</guid>
+      <guid>https://robchoudhury.com/post/miami-mango-ratings/</guid>
       <description>
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/robchoudhury/mango_rating&#34; target=&#34;_blank&#34;&gt;Full analysis here&lt;/a&gt;&lt;/p&gt;
@@ -280,7 +290,7 @@
 
 &lt;h2 id=&#34;how-did-they-perform&#34;&gt;How Did They Perform?&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_mango/variety_rating.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_mango/variety_rating.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So overall, it looks like &lt;em&gt;Kensington Pride&lt;/em&gt;, &lt;em&gt;Hayden&lt;/em&gt;, and &lt;em&gt;Edwards&lt;/em&gt; were clear winners, and the other varieties were not. What happened?&lt;/p&gt;
 
@@ -288,7 +298,7 @@
 
 &lt;p&gt;Did my wife and I have different views on these mangos?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_mango/person_rating_dumbbell.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_mango/person_rating_dumbbell.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We had fairly similar ratings, but it looks like I pretty consistently rated things more favorably than she did.&lt;/p&gt;
 
@@ -300,10 +310,10 @@
     
     <item>
       <title>Bird Ages</title>
-      <link>https://robchoudhury.netlify.com/post/bird-ages/</link>
+      <link>https://robchoudhury.com/post/bird-ages/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/post/bird-ages/</guid>
+      <guid>https://robchoudhury.com/post/bird-ages/</guid>
       <description>
 
 &lt;h2 id=&#34;bird-age&#34;&gt;Bird Age&lt;/h2&gt;
@@ -316,7 +326,7 @@
 
 &lt;p&gt;I wanted to know if there was any signal for how old birds get if theyre closely related. Ultimately, I would love to know how age is affected by size (weight, wingspan, whatever) but I cant find open datasets for that.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_bird_age/joy_plot.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_bird_age/joy_plot.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Looks like some bird orders have individuals that live longer than others, but it&amp;rsquo;s difficult to say for some whether thats just a sampling issue.&lt;/p&gt;
 
@@ -324,7 +334,7 @@
 
 &lt;p&gt;The relationship between the mean and the variance of a dataset can tell you &amp;hellip; stuff (see &lt;a href=&#34;https://en.wikipedia.org/wiki/Variance_function&#34; target=&#34;_blank&#34;&gt;https://en.wikipedia.org/wiki/Variance_function&lt;/a&gt;). Honestly I was just curious if there was a relationship, I need to revisit why this bit is important.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://robchoudhury.netlify.com/img/img_bird_age/mean_variance.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_bird_age/mean_variance.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It looks like there is a pretty strong relationship between log mean and log variance, with an R&lt;sup&gt;2&lt;/sup&gt; of 0.3722, a slope of 0.14848.&lt;/p&gt;
 
@@ -336,65 +346,56 @@
     
     <item>
       <title>Climate change, carbon dioxide, and pest biology, managing the future: coffee as a case study</title>
-      <link>https://robchoudhury.netlify.com/publication/climate_change_coffee/</link>
+      <link>https://robchoudhury.com/publication/climate_change_coffee/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/climate_change_coffee/</guid>
+      <guid>https://robchoudhury.com/publication/climate_change_coffee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network analysis: a systems framework to address grand challenges in plant pathology</title>
-      <link>https://robchoudhury.netlify.com/publication/network_annualreview/</link>
+      <link>https://robchoudhury.com/publication/network_annualreview/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/network_annualreview/</guid>
+      <guid>https://robchoudhury.com/publication/network_annualreview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://robchoudhury.netlify.com/privacy/</link>
+      <link>https://robchoudhury.com/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/privacy/</guid>
+      <guid>https://robchoudhury.com/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multiple origins of downy mildews and mitonuclear  discordance within the paraphyletic genus Phytophthora</title>
-      <link>https://robchoudhury.netlify.com/publication/dm_phylogeny/</link>
+      <link>https://robchoudhury.com/publication/dm_phylogeny/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/dm_phylogeny/</guid>
+      <guid>https://robchoudhury.com/publication/dm_phylogeny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A framework for optimizing phytosanitary thresholds in seed systems</title>
-      <link>https://robchoudhury.netlify.com/publication/phytosanitarythresholds/</link>
+      <link>https://robchoudhury.com/publication/phytosanitarythresholds/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/phytosanitarythresholds/</guid>
+      <guid>https://robchoudhury.com/publication/phytosanitarythresholds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temperature and light effects on germination of Peronospora effusa sporangia</title>
-      <link>https://robchoudhury.netlify.com/publication/sdm_germination/</link>
+      <link>https://robchoudhury.com/publication/sdm_germination/</link>
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/sdm_germination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laurel wilt in natural and agricultural ecosystems: understanding the drivers and scales of complex pathosystems</title>
-      <link>https://robchoudhury.netlify.com/publication/laurel_wilt_review/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://robchoudhury.netlify.com/publication/laurel_wilt_review/</guid>
+      <guid>https://robchoudhury.com/publication/sdm_germination/</guid>
       <description></description>
     </item>
     

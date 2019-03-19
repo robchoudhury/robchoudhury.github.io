@@ -2,130 +2,139 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mycology on Robin Choudhury</title>
-    <link>https://robchoudhury.netlify.com/tags/mycology/</link>
+    <link>https://robchoudhury.com/tags/mycology/</link>
     <description>Recent content in Mycology on Robin Choudhury</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Robin Choudhury</copyright>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2019 Robin Choudhury</copyright>
+    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://robchoudhury.netlify.com/tags/mycology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://robchoudhury.com/tags/mycology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Amanita Birthday Card Painting</title>
+      <link>https://robchoudhury.com/art/amanita-bday-painting/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.com/art/amanita-bday-painting/</guid>
+      <description>I&amp;rsquo;m lucky to have some great sisters, so I drew an Amanita and painted it with watercolors and a sharpie pen as a birthday card for her!</description>
+    </item>
+    
+    <item>
       <title>Summary measures of predictive power associated with logistic regression models of disease risk</title>
-      <link>https://robchoudhury.netlify.com/publication/gareth_sdm/</link>
+      <link>https://robchoudhury.com/publication/gareth_sdm/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/gareth_sdm/</guid>
+      <guid>https://robchoudhury.com/publication/gareth_sdm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network analysis: a systems framework to address grand challenges in plant pathology</title>
-      <link>https://robchoudhury.netlify.com/publication/network_annualreview/</link>
+      <link>https://robchoudhury.com/publication/network_annualreview/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/network_annualreview/</guid>
+      <guid>https://robchoudhury.com/publication/network_annualreview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple origins of downy mildews and mitonuclear  discordance within the paraphyletic genus Phytophthora</title>
-      <link>https://robchoudhury.netlify.com/publication/dm_phylogeny/</link>
+      <link>https://robchoudhury.com/publication/dm_phylogeny/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/dm_phylogeny/</guid>
+      <guid>https://robchoudhury.com/publication/dm_phylogeny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A framework for optimizing phytosanitary thresholds in seed systems</title>
-      <link>https://robchoudhury.netlify.com/publication/phytosanitarythresholds/</link>
+      <link>https://robchoudhury.com/publication/phytosanitarythresholds/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/phytosanitarythresholds/</guid>
+      <guid>https://robchoudhury.com/publication/phytosanitarythresholds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temperature and light effects on germination of Peronospora effusa sporangia</title>
-      <link>https://robchoudhury.netlify.com/publication/sdm_germination/</link>
+      <link>https://robchoudhury.com/publication/sdm_germination/</link>
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/sdm_germination/</guid>
+      <guid>https://robchoudhury.com/publication/sdm_germination/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laurel wilt in natural and agricultural ecosystems: understanding the drivers and scales of complex pathosystems</title>
-      <link>https://robchoudhury.netlify.com/publication/laurel_wilt_review/</link>
+      <link>https://robchoudhury.com/publication/laurel_wilt_review/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/laurel_wilt_review/</guid>
+      <guid>https://robchoudhury.com/publication/laurel_wilt_review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First report of powdery mildew caused by Podosphaera sp. on Triadica sebifera in California</title>
-      <link>https://robchoudhury.netlify.com/publication/powdery_mildew_tallowtree/</link>
+      <link>https://robchoudhury.com/publication/powdery_mildew_tallowtree/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/powdery_mildew_tallowtree/</guid>
+      <guid>https://robchoudhury.com/publication/powdery_mildew_tallowtree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatiotemporal patterns in the airborne dispersal of spinach downy mildew</title>
-      <link>https://robchoudhury.netlify.com/publication/spatiotemporal_sdm/</link>
+      <link>https://robchoudhury.com/publication/spatiotemporal_sdm/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/spatiotemporal_sdm/</guid>
+      <guid>https://robchoudhury.com/publication/spatiotemporal_sdm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Season-long dynamics of spinach downy mildew determined by spore trapping and disease incidence</title>
-      <link>https://robchoudhury.netlify.com/publication/season_long_sdm/</link>
+      <link>https://robchoudhury.com/publication/season_long_sdm/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/season_long_sdm/</guid>
+      <guid>https://robchoudhury.com/publication/season_long_sdm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First report of powdery mildew of Erodium moschatum caused by Podosphaera cf. erodii in California</title>
-      <link>https://robchoudhury.netlify.com/publication/powdery_mildew_erodium/</link>
+      <link>https://robchoudhury.com/publication/powdery_mildew_erodium/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/powdery_mildew_erodium/</guid>
+      <guid>https://robchoudhury.com/publication/powdery_mildew_erodium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First report of Cytospora punicae causing wood canker and branch dieback of pomegranate (Punica granatum) in the United States</title>
-      <link>https://robchoudhury.netlify.com/publication/franci_cytospora/</link>
+      <link>https://robchoudhury.com/publication/franci_cytospora/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/franci_cytospora/</guid>
+      <guid>https://robchoudhury.com/publication/franci_cytospora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First report of Diplodia seriata causing pear branch canker dieback in California</title>
-      <link>https://robchoudhury.netlify.com/publication/pear_diplodia/</link>
+      <link>https://robchoudhury.com/publication/pear_diplodia/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/pear_diplodia/</guid>
+      <guid>https://robchoudhury.com/publication/pear_diplodia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of punctuated heat stress on the grapevine powdery mildew pathogen, Erysiphe necator</title>
-      <link>https://robchoudhury.netlify.com/publication/consecutive_pm/</link>
+      <link>https://robchoudhury.com/publication/consecutive_pm/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/publication/consecutive_pm/</guid>
+      <guid>https://robchoudhury.com/publication/consecutive_pm/</guid>
       <description></description>
     </item>
     

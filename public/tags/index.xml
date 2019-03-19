@@ -2,112 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Robin Choudhury</title>
-    <link>https://robchoudhury.netlify.com/tags/</link>
+    <link>https://robchoudhury.com/tags/</link>
     <description>Recent content in Tags on Robin Choudhury</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Robin Choudhury</copyright>
-    <lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2019 Robin Choudhury</copyright>
+    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://robchoudhury.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://robchoudhury.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Agriculture</title>
-      <link>https://robchoudhury.netlify.com/tags/agriculture/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      <link>https://robchoudhury.com/tags/agriculture/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/tags/agriculture/</guid>
+      <guid>https://robchoudhury.com/tags/agriculture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>https://robchoudhury.com/tags/art/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.com/tags/art/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biology</title>
-      <link>https://robchoudhury.netlify.com/tags/biology/</link>
+      <link>https://robchoudhury.com/tags/biology/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/tags/biology/</guid>
+      <guid>https://robchoudhury.com/tags/biology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cartography</title>
-      <link>https://robchoudhury.netlify.com/tags/cartography/</link>
+      <link>https://robchoudhury.com/tags/cartography/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/tags/cartography/</guid>
+      <guid>https://robchoudhury.com/tags/cartography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data science</title>
-      <link>https://robchoudhury.netlify.com/tags/data-science/</link>
+      <link>https://robchoudhury.com/tags/data-science/</link>
       <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/tags/data-science/</guid>
+      <guid>https://robchoudhury.com/tags/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epidemiology</title>
-      <link>https://robchoudhury.netlify.com/tags/epidemiology/</link>
+      <link>https://robchoudhury.com/tags/epidemiology/</link>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/tags/epidemiology/</guid>
+      <guid>https://robchoudhury.com/tags/epidemiology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information theory</title>
-      <link>https://robchoudhury.netlify.com/tags/information-theory/</link>
+      <link>https://robchoudhury.com/tags/information-theory/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/tags/information-theory/</guid>
+      <guid>https://robchoudhury.com/tags/information-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mycology</title>
-      <link>https://robchoudhury.netlify.com/tags/mycology/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <link>https://robchoudhury.com/tags/mycology/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/tags/mycology/</guid>
+      <guid>https://robchoudhury.com/tags/mycology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Networks</title>
-      <link>https://robchoudhury.netlify.com/tags/networks/</link>
+      <link>https://robchoudhury.com/tags/networks/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/tags/networks/</guid>
+      <guid>https://robchoudhury.com/tags/networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phylogenics</title>
-      <link>https://robchoudhury.netlify.com/tags/phylogenics/</link>
+      <link>https://robchoudhury.com/tags/phylogenics/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/tags/phylogenics/</guid>
+      <guid>https://robchoudhury.com/tags/phylogenics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Random</title>
-      <link>https://robchoudhury.netlify.com/tags/random/</link>
-      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      <link>https://robchoudhury.com/tags/random/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/tags/random/</guid>
+      <guid>https://robchoudhury.com/tags/random/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seed systems</title>
-      <link>https://robchoudhury.netlify.com/tags/seed-systems/</link>
+      <link>https://robchoudhury.com/tags/seed-systems/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://robchoudhury.netlify.com/tags/seed-systems/</guid>
+      <guid>https://robchoudhury.com/tags/seed-systems/</guid>
       <description></description>
     </item>
     

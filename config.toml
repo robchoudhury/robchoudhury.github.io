@@ -6,14 +6,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://robchoudhury.netlify.com/"
+baseurl = "https://robchoudhury.com/"
 
 # Title of your site
 title = "Robin Choudhury"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 Robin Choudhury"
+copyright = "&copy; 2019 Robin Choudhury"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -283,12 +283,17 @@ enableGitInfo = false
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
+  weight = 4
+
+[[menu.main]]
+  name = "Science Art"
+  url = "#art"
   weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
