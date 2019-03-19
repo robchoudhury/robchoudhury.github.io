@@ -281,7 +281,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Science Art"
-  url = "art"
+  url = "#art"
   weight = 4
   
 [[menu.main]]
