@@ -102,7 +102,7 @@ enableGitInfo = false
   map = 1
   map_api_key = ""
   latitude = "29.638142"
-  longitude = "82.361256"
+  longitude = "-82.361256"
   zoom = 15
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
