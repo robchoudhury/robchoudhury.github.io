@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sketchnotes on Robin Choudhury</title>
+    <link>https://robchoudhury.com/tags/sketchnotes/</link>
+    <description>Recent content in Sketchnotes on Robin Choudhury</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Robin Choudhury</copyright>
+    <lastBuildDate>Thu, 04 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://robchoudhury.com/tags/sketchnotes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sketchnotes of Neil McRoberts&#39; HLB talk</title>
+      <link>https://robchoudhury.com/art/mcroberts-hlb/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.com/art/mcroberts-hlb/</guid>
+      <description>My former advisor Neil McRoberts gave a seminar at the UF Plant Pathology department about his work on managing the citrus HLB outbreak in California. They have currently found about 1000 trees in the LA basin with HLB, and the program spends about $40m each year, which he has to fight tooth and nail to get. The disease could devestate California&amp;rsquo;s citrus market, so managing it early is critical.</description>
+    </item>
+    
+  </channel>
+</rss>
