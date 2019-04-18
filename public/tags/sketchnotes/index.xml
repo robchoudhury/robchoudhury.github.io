@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Robin Choudhury</copyright>
-    <lastBuildDate>Thu, 04 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://robchoudhury.com/tags/sketchnotes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sketchnotes of Ying-Yu Liao&#39;s tomato spot talk</title>
+      <link>https://robchoudhury.com/art/liao-tomato/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://robchoudhury.com/art/liao-tomato/</guid>
+      <description>Ying-Yu Liao gave a nice seminar about her ongoing PhD work looking at Magnesium Oxide nanoparticles and their use for control of bacterial tomato spot disease.</description>
+    </item>
     
     <item>
       <title>Sketchnotes of Neil McRoberts&#39; HLB talk</title>
