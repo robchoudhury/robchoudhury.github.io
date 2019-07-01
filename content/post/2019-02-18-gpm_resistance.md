@@ -37,4 +37,4 @@ When we plot how disease stacked up for leaves and clusters over time, we can se
 
  
 # Conclusions
-We found a lot of cool stuff about varieties that are commonly grown in California, but unfortunately the year to year variation in the data made it hard to combine the datasets. I still think that theyre rich datasets, and I probably haven't explored them to their fullest.
+We found a lot of cool stuff about varieties that are commonly grown in California, but unfortunately the year to year variation in the data made it hard to combine the datasets. I still think that they're rich datasets, and I probably haven't explored them to their fullest.
