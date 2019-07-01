@@ -119,11 +119,30 @@ I put this art up on my redbubble account (&lt;a href=&#34;https://www.redbubble
 
 &lt;p&gt;Published in Plant Disease Management Reports &lt;a href=&#34;https://www.plantmanagementnetwork.org/pub/trial/pdmr/volume9/abstracts/smf18.asp&#34; target=&#34;_blank&#34;&gt;2011&lt;/a&gt;, and &lt;a href=&#34;https://www.plantmanagementnetwork.org/pub/trial/pdmr/volume13/abstracts/pf051.asp&#34; target=&#34;_blank&#34;&gt;2012&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;UNDER CONSTRUCTION!&lt;/p&gt;
+&lt;p&gt;During my master&amp;rsquo;s degree, we set out a lot of projects (I had originally intended for my master&amp;rsquo;s to be a PhD&amp;hellip;but thats a story for another time). So I ended up having a ton of different interconnected projects running with Doug Gubler looking at different aspects of grape powdery mildew biology and epidemiology. While we knew that there were differences in how grape varieties and cultivars reacted to powdery mildew, we couldn&amp;rsquo;t find a great resource that looked at the cultivars grown in California in the present. There was a grape vineyard planted in Round Mountain (near Mount Shasta, waaaay up north) that had 10 varieties all grown in a randomized complete block design and were being used by a great grower named Hans Heinrich. Hans was kind and generous enough to let us use his vineyard and equipment to do research, so we sprayed the interior of his vineyard and left the ends of the rows (which contained copies of the varieties) to rate. We rated the vineyard for two years (2011 and 2012) and by the time the second year came up, we knew that I would be transitioning to another lab. We still wanted to get the data together, so we continued to rate the disease and planned on putting together a small manuscript describing our work.&lt;/p&gt;
+
+&lt;p&gt;We ended up publishing the results of the trials in two separate PDMR documents. Retrospectively, I wish we had published the work in &lt;a href=&#34;https://www.plantmanagementnetwork.org/php/&#34; target=&#34;_blank&#34;&gt;Plant Health Progress&lt;/a&gt;. The story was really interesting, and we had a ton of data, both in time and across quite a few varieties. I think it would have fit better in that journal than as two separate reports. However, whats done is done, and PHP wasn&amp;rsquo;t quite as prominent then as it is even now.&lt;/p&gt;
 
 &lt;h1 id=&#34;the-results&#34;&gt;The Results&lt;/h1&gt;
 
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_ucd/leaf_severity.png&#34; alt=&#34;&#34; /&gt;
+Overall, the results for leaf severity differed slightly between years. In 2011, Merlot had the highest severity, especially towards the end of the season when the severity jumped quite a bit between the final two time points. We rated a little bit later in 2012, and Merlot actually came out near the bottom. Its important to note the scales: Disease severity across the board was waay higher in 2012 for this vineyard.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_ucd/cluster_severity.png&#34; alt=&#34;&#34; /&gt;
+Sauvignon Blanc seemed to be most affected in 2011, although Zinfandel and Pinot Noir were also pretty heavily affected. Pinot Blanc was the most heavily affected cultivar in 2012, so again there is little concordance between the two years.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_ucd/audpc_leaf.png&#34; alt=&#34;&#34; /&gt;
+When comparing across years, its sometimes useful to rely on a more holistic metric, like the area under the disease progress curve (AUDPC). We looked at AUDPC for leaves and found decent concordance between the two years, suggesting that Syrah is less heavily affected than many other cultivars (and is very tasty, to boot!).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_ucd/leaf_cluster_audpc_concordance.png&#34; alt=&#34;&#34; /&gt;
+When looking at AUDPC ratings for clusters and leaves of different varieties, we can see that some varieties are more heavily affected in the clusters rather than the leaves. This has major implications for assaying for disease susceptibility. We frequently use proxies to measure disease severity: in this case, leaves are more abundant and available (basically) year-round. But using leaves alone to measure disease susceptibility could lead to some over- or under-estimations of how resistant a variety will be.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://robchoudhury.com/img/img_ucd/leaf_cluster_concordance.png&#34; alt=&#34;&#34; /&gt;
+When we plot how disease stacked up for leaves and clusters over time, we can see that they don&amp;rsquo;t really concur for the cultivars (a perfect concordance would follow the 1:1 line). Part of this is that leaves are more heavily affected early in the season, as seen in the chart.&lt;/p&gt;
+
 &lt;h1 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h1&gt;
+
+&lt;p&gt;We found a lot of cool stuff about varieties that are commonly grown in California, but unfortunately the year to year variation in the data made it hard to combine the datasets. I still think that theyre rich datasets, and I probably haven&amp;rsquo;t explored them to their fullest.&lt;/p&gt;
 </description>
     </item>
     
