@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Robin Choudhury</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://robchoudhury.com/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://robchoudhury.com/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
       <guid>https://robchoudhury.com/home/hero_carousel/</guid>
       <description></description>
@@ -27,13 +27,13 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://robchoudhury.com/home/about/</guid>
-      <description>Biography I am currently a post doctoral researcher in the Plant Pathology Department, Institute for Sustainable Food Systems, and the Emerging Pathogens Institute at the University of Florida working with Dr. Karen Garrett. I am interested in the ecology of emerging pathogens, understanding how they disrupt native systems and propagate. I am currently researching the epidemiology of laurel wilt disease, an invasive beetle-vectored disease that has destroyed both native and agricultural hosts.</description>
+      <description>Biography I am currently an assistant professor at the University of Texas Rio Grande Valley, where I started in September of 2019. My lab focuses on fungal pathogens that impact crops, and strategies to improve sustainable agriculture, such as biological control strategies. I am also interested in the ecology of emerging pathogens across landscapes, understanding how they disrupt native and agricultural systems, and how climatic factors impact their severity. The Rio Grande Valley is a rich and diverse area, and a critical point for trade between the United States and Mexico (our third largest trading partner).</description>
     </item>
     
     <item>
       <title>Academic</title>
       <link>https://robchoudhury.com/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
       <guid>https://robchoudhury.com/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
@@ -43,7 +43,7 @@
     <item>
       <title>Selected Publications</title>
       <link>https://robchoudhury.com/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://robchoudhury.com/home/publications_selected/</guid>
       <description></description>
@@ -61,7 +61,7 @@
     <item>
       <title>Recent Publications</title>
       <link>https://robchoudhury.com/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://robchoudhury.com/home/publications/</guid>
       <description></description>
@@ -70,7 +70,7 @@
     <item>
       <title>Selected Talks</title>
       <link>https://robchoudhury.com/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://robchoudhury.com/home/talks_selected/</guid>
       <description></description>
@@ -79,7 +79,7 @@
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://robchoudhury.com/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://robchoudhury.com/home/talks/</guid>
       <description></description>
@@ -88,7 +88,7 @@
     <item>
       <title>Recent Posts</title>
       <link>https://robchoudhury.com/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://robchoudhury.com/home/posts/</guid>
       <description></description>
@@ -97,7 +97,7 @@
     <item>
       <title>Projects</title>
       <link>https://robchoudhury.com/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://robchoudhury.com/home/projects/</guid>
       <description></description>
@@ -106,7 +106,7 @@
     <item>
       <title>Science Art</title>
       <link>https://robchoudhury.com/home/art/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://robchoudhury.com/home/art/</guid>
       <description></description>
@@ -115,7 +115,7 @@
     <item>
       <title>Teaching</title>
       <link>https://robchoudhury.com/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://robchoudhury.com/home/teaching/</guid>
       <description>In the past, I have assisted in teaching several courses, including:
@@ -125,7 +125,7 @@
     <item>
       <title>Tags</title>
       <link>https://robchoudhury.com/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
       
       <guid>https://robchoudhury.com/home/tags/</guid>
       <description></description>
@@ -134,7 +134,7 @@
     <item>
       <title>Search</title>
       <link>https://robchoudhury.com/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0500</pubDate>
       
       <guid>https://robchoudhury.com/home/search/</guid>
       <description></description>
@@ -143,7 +143,7 @@
     <item>
       <title>Contact</title>
       <link>https://robchoudhury.com/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://robchoudhury.com/home/contact/</guid>
       <description></description>
