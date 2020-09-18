@@ -13,7 +13,7 @@ title = "Robin Choudhury"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019 Robin Choudhury"
+copyright = "&copy; 2020 Robin Choudhury"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -64,13 +64,13 @@ enableGitInfo = false
 
   # Your details.
   name = "Robin Choudhury"
-  role = "Post Doctoral Researcher"
-  organization = "University of Florida"
+  role = "Assistant Professor"
+  organization = "University of Texas Rio Grande Valley"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "ra.choudhury@ufl.edu"
-  address = "Building 168, University of Florida, Florida, 32611, USA"
+  email = "robin.choudhury@utrgv.edu"
+  address = "ESCNE 1.619, University of Texas Rio Grande Valley, Texas, 78539, USA"
 
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -99,10 +99,10 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
+  map = 3
   map_api_key = ""
-  latitude = "29.638142"
-  longitude = "-82.361256"
+  latitude = "26.306453"
+  longitude = "-98.171483"
   zoom = 15
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
@@ -227,7 +227,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:ra.choudhury@ufl.edu"
+    link = "mailto:robin.choudhury@utrgv.edu"
 
   [[params.social]]
     icon = "twitter"
